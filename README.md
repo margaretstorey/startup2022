@@ -18,14 +18,14 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 
 | | Date | Meeting agenda |
 | ---:| ---------- | -------------- |
-| 1 | 14/01/2022 | [Introduction](), [How to build a software product](), [Standing on the shoulders of giants](), Demo of past projects (guest: [TBD]()), Forming teams |
-| 2 | 21/1/2022 | [Web development overview](), [Mobile development overview]() (), [UI/UX - Design Thinking]() ([Peggy](xxx) |
-| 3 | 28/1/2022 | [Git, GitHub, and Working Together]() ([Ian](http://ianbull.com/)), [Project proposal presentations](/presenting%20your%20ideas.md) |
+| 1 | 14/01/2022 | [Course Introduction and Expectations](), [Founder's Story](), Break, [Ideation and Creativity, Dr. Claudia Smith]()|
+| 2 | 21/1/2022 | [UI/UX, Design Thinking, Dr. Margaret-Anne Storey](), Break, Storming Ideas (with ideas from Business students), Forming Groups |
+| 3 | 28/1/2022 | [Project proposal presentations](/presenting%20your%20ideas.md), Break, [Business Value Canvas, Dr. Claudia Smith]()|
 | 4 | 4/2/2022 | Guest talks:<br>&nbsp;·&nbsp;|
 | 5 | 18/2/2022 | [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
 | 6 | 4/3/2022 | Guest talks &nbsp;·&nbsp;|
 | 7 | 11/3/2022 | [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate |
-| 8 | 18/3/2022 | Guest talks|
+| 8 | 18/3/2022 | Guest talks TBD (e.g., patents)|
 | 9 | 1/4/2022 | [Milestone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA<br>*(note: time and location of this meeting may change, please reserve Friday April 8th 2-5pm as an alternate time for this)* |
 | | 15/4/2022 | [Final submission](/final%20submission.md) (by email, no meeting)
 
@@ -35,22 +35,23 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 
 - [Margaret-Anne Storey](https://margaretannestorey.wordpress.com/)
 - [Claudia Smith]
+
+- Alessandra Milani Paz (Teaching Assistant)
+
+Alumni mentors: 
+- [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
 - [Cliff McCollum](https://ca.linkedin.com/in/cliffmccollum)
 - [Ian Bull](http://ianbull.com/)
-- XXX (Teaching Assistant)
-
-Alumni mentors: [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
-copy from before...
 
 **Teams and Projects:**  
 View current and past [teams and projects](teams and projects.md).
 
-**Office Hour:** By appointment. Friday 11:00am-12:00pm at ECS 5XX (please send an email to set a meeting) 
+**Office Hour:** By appointment. Friday 11:00am-12:00pm at ECS 5XX (please send an email to set a meeting time) 
 
 **Contact email:** [startup.programming@gmail.com](mailto:startup.programming@gmail.com) check on this!
 
 
-## License - check on this with Chris?
+## License - check on this with Chris or Jerome
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). This doesn't include the students' projects, which are hosted on separate repositories and each have their own license.
 
 ![Alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Attribution-ShareAlike 4.0 International License")
