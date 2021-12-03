@@ -18,9 +18,9 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 
 | | Date | Meeting agenda |
 | ---:| ---------- | -------------- |
-| 1 | 14/01/2022 | [Course Introduction and Expectations](), [Founder's Story](), Break, [Ideation and Creativity, Dr. Claudia Smith]()|
-| 2 | 21/1/2022 | [UI/UX, Design Thinking, Dr. Margaret-Anne Storey](), Break, Storming Ideas (with ideas from Business students), Forming Groups |
-| 3 | 28/1/2022 | [Project proposal presentations](/presenting%20your%20ideas.md), Break, [Business Value Canvas, Dr. Claudia Smith]()|
+| 1 | 14/01/2022 | [Course Introduction and Expectations](), [Founder's Story, Juan Orrrego](https://www.cuboh.com/), Break, [Ideation and Creativity, Dr. Claudia Smith]()|
+| 2 | 21/1/2022 | [UI/UX, Design Thinking, Dr. Margaret-Anne Storey](), Break, Storming Ideas and Forming Groups |
+| 3 | 28/1/2022 | [Project proposal presentations](/presenting%20your%20ideas.md), Break, [Value Proposition Canvas, Dr. Claudia Smith]()|
 | 4 | 4/2/2022 | Guest talks:<br>&nbsp;·&nbsp;|
 | 5 | 18/2/2022 | [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
 | 6 | 4/3/2022 | Guest talks &nbsp;·&nbsp;|
@@ -34,9 +34,12 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 **Mentoring Staff:**
 
 - [Margaret-Anne Storey](https://margaretannestorey.wordpress.com/)
-- [Claudia Smith]
+- [Claudia Smith]()
+- [Alessandra Milani Paz]()
 
-- Alessandra Milani Paz (Teaching Assistant)
+- Rob Bennett, COO, ViaTec
+- Sam Mod, Freshworks
+- Brandon Wright, BRNKL
 
 Alumni mentors: 
 - [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
