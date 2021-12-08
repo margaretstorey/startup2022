@@ -23,7 +23,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 | 3 | 28/1/2022 | [Project proposal presentations](/presenting%20your%20ideas.md), Break, [Value Proposition Canvas, Dr. Claudia Smith]()|
 | 4 | 4/2/2022 | Guest talks:<br>&nbsp;·&nbsp;|
 | 5 | 18/2/2022 | [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
-| 6 | 4/3/2022 | Guest talks &nbsp;·&nbsp;|
+| 6 | 4/3/2022 | Panel with Startup founders: Nicole Smith, Flytographer;  &nbsp;·&nbsp;|
 | 7 | 11/3/2022 | [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate |
 | 8 | 18/3/2022 | Guest talks TBD (e.g., patents)|
 | 9 | 1/4/2022 | [Milestone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA<br>*(note: time and location of this meeting may change, please reserve Friday April 8th 2-5pm as an alternate time for this)* |
