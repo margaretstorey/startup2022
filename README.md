@@ -21,7 +21,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 | 1 | 14/01/2022 | Course Introduction and Expectations, Introductions, [Founder's Story, Juan Orrego](https://www.cuboh.com/), Break, Ideation and Creativity, Dr. Claudia Smith|
 | 2 | 21/1/2022 | UI/UX, Design Thinking, Dr. Margaret-Anne Storey, Break, Storming Ideas and Forming Groups |
 | 3 | 28/1/2022 | [Project proposal presentations](/presenting%20your%20ideas.md), Break, Value Proposition Canvas, Dr. Claudia Smith|
-| 4 | 4/2/2022 | TBD, Steven Myhill-Jones, Entreprenuer/Investor, The Tech Stack. Guest presenters: Matthew Smith and Nick Addison, Mazumago<br>&nbsp;·&nbsp;|
+| 4 | 4/2/2022 | Title TBD, Steven Myhill-Jones, Entreprenuer/Investor; Break; The Tech Stack. Guest presenters: Matthew Smith and Nick Addison, Mazumago<br>&nbsp;·&nbsp; | 
 | 5 | 18/2/2022 | [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
 | 6 | 4/3/2022 | Panel with Startup founders: Nicole Smith, Flytographer;  &nbsp;·&nbsp;|
 | 7 | 11/3/2022 | [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate |
@@ -32,17 +32,16 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 ---
 
 **Mentoring Staff:**
-- Rob Bennett, COO, ViaTec
-- Sam Mod, Freshworks
-- Steven Myhill-Jones, Entrepreneur/Investor and Founder of Lattitude
-- Brandon Wright, BRNKL
-
-- [Margaret-Anne Storey](https://margaretannestorey.wordpress.com/)
-- [Claudia Smith]()
-- [Alessandra Milani Paz]()
+- [Rob Bennett, COO and Program Director, ViaTec](https://www.linkedin.com/in/robebennett/?originalSubdomain=ca)
+- [Sam Mod, CEO and Co-Founder, Freshworks](https://www.linkedin.com/in/samarthmod/?originalSubdomain=ca) 
+- [Steven Myhill-Jones, Entrepreneur/Investor and Founder of Lattitude Geographics](https://www.linkedin.com/in/steven-myhill-jones-6857607/?originalSubdomain=ca)
+- [Brandon Wright, Founder and CEO, BRNKL](https://www.linkedin.com/in/coastalbrandon/?originalSubdomain=ca)
+- [Alessandra Milani Paz, PhD Student, UVic and Course TA](https://www.linkedin.com/in/alessandrapm/?originalSubdomain=ca)
+- [Claudia Smith, Professor, School of Business, UVic ](https://www.linkedin.com/in/dr-claudia-smith-29b318a/?originalSubdomain=ca)
+- [Margaret-Anne Storey, Professor, Computer Science, UVic](https://margaretannestorey.wordpress.com/)
 
 Alumni mentors: 
-- [Alexey Zagalsky]()
+- [Alexey Zagalsky](https://www.linkedin.com/in/alexeyza/?originalSubdomain=il)
 - [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
 - [Cliff McCollum](https://ca.linkedin.com/in/cliffmccollum)
 - [Ian Bull](http://ianbull.com/)
