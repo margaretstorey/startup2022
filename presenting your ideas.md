@@ -1,5 +1,5 @@
 # Presenting Your Ideas
-In our third meeting (23/09/2016) you should present your project idea.
+In our third meeting (28/01/2021) you should present your project idea.
 
 You will be given 15 minutes as follows:
 
@@ -19,16 +19,11 @@ You will be given 15 minutes as follows:
 - Be visual: if you have already thought about user interface, you may show a sketch of it in the presentation.
 - You may bring your own laptop (so no compatibility problems would occur during your presentation).
 - Be simple and precise.
-- Take a look at presentations from previous semesters. An example for a good presentation: [Moishd - 2010/2011A](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjbG91ZHdlYjEwYXxneDoyOWIzOTg0NWQ5ZDQ3YTdh&pli=1)
+- Take a look at presentations from previous semesters. 
 - Rehearse your presentation within the team and make sure you are all on the same page.
 - If you plan on using slides, please email them to us before the meeting.
 - If you have some free time, consider watching the Y Combinator Office Hours videos ([YouTube](https://www.youtube.com/watch?v=9cWPxuxqdGQ))
-- For creating UI mockups consider using [Balsamiq](https://balsamiq.com/download/), offered for free use during the course:
-```
-License Name: Startup Programming 2016
-License Key: eJzzzU/OLi0odswsqgkuSSwqKS1QCCjKTy9KzM3NzEtXMDIwNKsxNLEwMDewsDAAgZqQGkMADFMRhw==
-License End Date: Jan 01, 2017
-```
+- For creating UI mockups consider using [Balsamiq](https://balsamiq.com/download/), free for 30 days. 
 
 **If you haven't done so already, please send us an email with the names of your team members** ([startup.programming@gmail.com](mailto:startup.programming@gmail.com)).
 
