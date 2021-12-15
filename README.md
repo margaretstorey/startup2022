@@ -18,7 +18,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 
 | | Date | Meeting agenda |
 | ---:| ---------- | -------------- |
-| 1 | 14/01/2022 | [Course Introduction and Expectations](), [Founder's Story, Juan Orrrego](https://www.cuboh.com/), Break, [Ideation and Creativity, Dr. Claudia Smith]()|
+| 1 | 14/01/2022 | [Course Introduction and Expectations](), [Founder's Story, Juan Orrego](https://www.cuboh.com/), Break, [Ideation and Creativity, Dr. Claudia Smith]()|
 | 2 | 21/1/2022 | [UI/UX, Design Thinking, Dr. Margaret-Anne Storey](), Break, Storming Ideas and Forming Groups |
 | 3 | 28/1/2022 | [Project proposal presentations](/presenting%20your%20ideas.md), Break, [Value Proposition Canvas, Dr. Claudia Smith]()|
 | 4 | 4/2/2022 | The Tech Stack. Guest presenters: Matthew Smith and Nick Addison, Mazumago<br>&nbsp;·&nbsp;|
