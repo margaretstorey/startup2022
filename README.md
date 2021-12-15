@@ -38,13 +38,13 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 - [Brandon Wright, Founder and CEO, BRNKL](https://www.linkedin.com/in/coastalbrandon/?originalSubdomain=ca)
 - [Alessandra Milani Paz, PhD Student, UVic and Course TA](https://www.linkedin.com/in/alessandrapm/?originalSubdomain=ca)
 - [Claudia Smith, Professor, School of Business, UVic ](https://www.linkedin.com/in/dr-claudia-smith-29b318a/?originalSubdomain=ca)
-- [Margaret-Anne Storey, Professor, Computer Science, UVic](https://margaretannestorey.wordpress.com/)
+- [Margaret-Anne Storey, Professor, Computer Science, UVic](https://margaretstorey.com/)
 
 Alumni mentors: 
 - [Alexey Zagalsky](https://www.linkedin.com/in/alexeyza/?originalSubdomain=il)
-- [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
+- [Arie van Deursen](https://avandeursen.com/about/)
 - [Cliff McCollum](https://ca.linkedin.com/in/cliffmccollum)
-- [Ian Bull](http://ianbull.com/)
+- [Ian Bull](https://www.linkedin.com/in/irbull/?originalSubdomain=ca)
 
 **Teams and Projects:**  
 View current and past [teams and projects](teams and projects.md).
