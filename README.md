@@ -12,7 +12,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 
 ---
 
-**Classes will be on Fridays 2pm-5pm at [XX update link](http://www.uvic.ca/home/about/campus-info/maps/maps/hhb.php):**  
+**Classes will be on Fridays 2pm-5pm at [ECS](https://www.uvic.ca/search/maps-buildings/buildings/engineering-computer-science.php) 104:**  
 (*Tentative schedule, slides are in the [**resources section**](resources)*)
 
 
@@ -25,7 +25,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 | 5 | 18/2/2022 | [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
 | 6 | 4/3/2022 | Panel with Startup founders: Nicole Smith, Flytographer;  &nbsp;·&nbsp;|
 | 7 | 11/3/2022 | [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate |
-| 8 | 18/3/2022 | Introduction to Intellectual Property, by Aislinn Sirk, Research Partnerships and Innovation Manager, UVic;  Other talks TBD |
+| 8 | 18/3/2022 | Introduction to Intellectual Property, by Aislinn Sirk, Research Partnerships and Innovation Manager, UVic (1.5 hours);  Other talks TBD |
 | 9 | 1/4/2022 | [Milestone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA<br>*(note: time and location of this meeting may change, please reserve Friday April 8th 2-5pm as an alternate time for this)* |
 | | 15/4/2022 | [Final submission](/final%20submission.md) (by email, no meeting)
 
