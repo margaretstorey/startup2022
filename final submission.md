@@ -2,7 +2,7 @@
 
 Note that the final submission is not done in a face-to-face presentation but rather by deploying your final application and posting all supplemental material to the Web.
 
-By the due date (19/12/2016 23:59) you should send us an email ([startup.programming@gmail.com](mailto:startup.programming@gmail.com)) that includes a:
+By the due date (15/04/2022 23:59) you should send us an email ([startup.programming@gmail.com](mailto:startup.programming@gmail.com)) that includes a:
 
 - link to download the final application installation file or to the web app page (if creating a new account is required, please provide us with a testing account credentials)
 - link for all the source code involved in your final project (client, server, other)
@@ -27,4 +27,3 @@ Give special attention to usability issues, look & feel, and simplicity.
 6. Documentation (is it useful for users/developers) 
 
 Good luck,  
-Alexey, Peggy, Cliff, Greg, Ian
