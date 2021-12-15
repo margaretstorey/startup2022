@@ -2,55 +2,15 @@
 
 ### Meeting 1
 
-- [Welcome to Startup Programming 2016](https://speakerdeck.com/alexeyza/welcome-to-startup-programming-course-fall-2016)
-- [How to build a software product?](https://speakerdeck.com/alexeyza/how-to-build-a-software-product)
-- [Standing on the shoulders of giants](http://prezi.com/mkn6azkr8kqt/standing-on-the-shoulders-of-giants-v4/) - On software reuse and software composition (v4).
-- A few of the past projects:
-    + [beLocal](https://github.com/beLocalVictoria/beLocal) - [lessons learned](https://docs.google.com/presentation/d/1tlF1HjAmuXlAC7W2QKTpbBgh3VSXPXNoF1AmrEVQrlE)
-    + [Power Planner](https://github.com/prashantchhabra89/Alternate-Power-Source-Property-Mapper)
-    + [Check Me In](https://code.google.com/p/check-me-in/) - continued to [Microsoft's accelerator](https://www.microsoftventures.com/accelerators/telaviv.aspx) and then to create [Screemo](http://www.screemo.com/), a successful startup [[Use cases](https://www.youtube.com/watch?v=nK6PTxEfvJQ), [Lessons learned](https://docs.google.com/file/d/0B94p08j2m1YtRDRrLVlFOVVPLUk)].
-    + [What2Wear](https://code.google.com/p/what2wear/)
-    + [AroundRoid](https://code.google.com/p/aroundroid/)
-    + [StrEAT](https://code.google.com/p/team-4/)
-    + [Good2Go](https://code.google.com/p/good2go/)
-    + [UniZone](https://code.google.com/p/unizone/)
-    + [FlyingBoard](https://code.google.com/p/flyingboard/)
-    + [The Reporter](https://code.google.com/p/smoking-not/)
-    + [SporTeam](https://code.google.com/p/sporteam/)
-    + [Valto](https://code.google.com/p/valto/)
-    + [EZ-Launch](https://code.google.com/p/ez-launch/) [on [Google Play](https://play.google.com/store/apps/details?id=com.sadna.widgets.application)]
-
-### Meeting 2
-
-- [Startup Slam 3.0](http://www.startupslam.io/)
-- [Web development overview](https://speakerdeck.com/alexeyza/web-development-overview-2016)
-- [Mobile development - advice on how to start](https://docs.google.com/presentation/d/1kROO3-EDVNjYDe02Xf7GPpNwFz1XN5ZwfNmVbje-Zys)
-- [UI/UX part 1 - Design Thinking](design_thinking2016.pdf?raw=true)
-
-### Meeting 3
-
-- [Git, GitHub and Working Together](http://github.eclipsesource.com/introduction_to_git)
-
-### Meeting 4
-
-- [So you want to build a thing](http://so-you-want-to-build-a-thing.surge.sh) by [Jason Trill](http://jjt.io/)
-
-### Meeting 6
-
-- [Software Management for people who just want to get stuff done](http://www.slideshare.net/cliffmcc/software-managementfor-people-who-just-want-to-get-stuff-done) by [Cliff](https://ca.linkedin.com/in/cliffmccollum)
-- [Slides of the Benevity guest talk](benevity_guest_talk.pdf?raw=true) by [Jim Olson](http://islandsofno.ca/about.html) (product design at [Benevity](http://www.benevity.com/)) and [Jon Wiggens](https://twitter.com/jonwiggens) (UI Designer at [Benevity](http://www.benevity.com/), previously at EA)
-- [Dev Ops - 12 factor apps](devops_12_factor_apps.pdf?raw=true) by [Cliff](https://ca.linkedin.com/in/cliffmccollum)
-
-### Meeting 7
-
-- [Testing for web developers](testing-clarke.pdf?raw=true) by [Clarke Brunsdon](https://twitter.com/cbrunsdon)
-- [UI/UX - thinking about the user](ui_ux_thinking_about_the_user.pdf?raw=true) by Peggy
+To be posted.
 
 # Recommended Reading and Watching
 
 Go to [recommended reading](/resources/recommended%20reading.md) section.
 
 # Resources
+
+Note the following resources have not been updated since 2016. 
 
 ### Useful Links
 
