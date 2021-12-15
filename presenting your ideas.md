@@ -1,5 +1,5 @@
 # Presenting Your Ideas
-In our third meeting (28/01/2021) you should present your project idea.
+In our third meeting (28/01/2022) you should present your project idea.
 
 You will be given 15 minutes as follows:
 
