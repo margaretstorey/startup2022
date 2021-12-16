@@ -23,7 +23,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 | 3 | 28/1/2022 | [Project proposal presentations](/presenting%20your%20ideas.md)<br>Break <br> Value Proposition Canvas, Dr. Claudia Smith|
 | 4 | 4/2/2022 | Talk Title TBD, Steven Myhill-Jones, Entreprenuer/Investor <br> Break <br> The Tech Stack. Guest presenters: Matthew Smith and Nick Addison, Mazumago<br> | 
 | 5 | 18/2/2022 | [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
-| 6 | 4/3/2022 | Panel with Startup founders: Nicole Smith, Flytographer; Other Panelists TBA |
+| 6 | 4/3/2022 | Panel with Startup founders: <br> Nicole Smith, Flytographer <br> Brandon Wright, CEO, BRNKL <br> Other Panelists TBA |
 | 7 | 11/3/2022 | [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate |
 | 8 | 18/3/2022 | Introduction to Intellectual Property, by Aislinn Sirk, Research Partnerships and Innovation Manager, UVic <br> Break <br>  TBD, by Rob Bennett, COO, ViaTec |
 | 9 | 1/4/2022 | [Milestone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA<br>*(note: time and location of this meeting may change, please reserve Friday April 8th 2-5pm as an alternate time for this)* |
@@ -39,6 +39,13 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 - [Alessandra Milani Paz, PhD Student, UVic and Course TA](https://www.linkedin.com/in/alessandrapm/?originalSubdomain=ca)
 - [Claudia Smith, Professor, School of Business, UVic ](https://www.linkedin.com/in/dr-claudia-smith-29b318a/?originalSubdomain=ca)
 - [Margaret-Anne Storey, Professor, Computer Science, UVic](https://margaretstorey.com/)
+
+**Additional Presenters:**
+- Juan Orrego, Cuboh
+- Aislinn Sirk, Research Partnerships and Innovation Manager, UVic
+- Matthew Smith and Nick Addison, Mazumago
+- Nicole Smith, Flytographer
+- David Yarish, Tutela
 
 Alumni mentors: 
 - [Alexey Zagalsky](https://www.linkedin.com/in/alexeyza/?originalSubdomain=il)
