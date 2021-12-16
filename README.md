@@ -25,7 +25,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 | 5 | 18/2/2022 | [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
 | 6 | 4/3/2022 | Panel with Startup founders: Nicole Smith, Flytographer; Other Panelists TBA |
 | 7 | 11/3/2022 | [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate |
-| 8 | 18/3/2022 | Introduction to Intellectual Property, by Aislinn Sirk, Research Partnerships and Innovation Manager, UVic <br> Break <br>  Other talks TBA |
+| 8 | 18/3/2022 | Introduction to Intellectual Property, by Aislinn Sirk, Research Partnerships and Innovation Manager, UVic <br> Break <br>  TBD, by Rob Bennett, COO, ViaTec |
 | 9 | 1/4/2022 | [Milestone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA<br>*(note: time and location of this meeting may change, please reserve Friday April 8th 2-5pm as an alternate time for this)* |
 | | 15/4/2022 | [Final submission](/final%20submission.md) (by email, no meeting)
 
