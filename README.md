@@ -47,13 +47,6 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 - Nicole Smith, Flytographer
 - David Yarish, Tutela
 
-Alumni mentors: 
-- [Alexey Zagalsky](https://www.linkedin.com/in/alexeyza/?originalSubdomain=il)
-- [Arie van Deursen](https://avandeursen.com/about/)
-- [Cliff McCollum](https://ca.linkedin.com/in/cliffmccollum)
-- [Ian Bull](https://www.linkedin.com/in/irbull/?originalSubdomain=ca)
-- [Gregory Schier](https://schier.co/)
-
 **Teams and Projects:**  
 View current and past [teams and projects](teams and projects.md).
 
