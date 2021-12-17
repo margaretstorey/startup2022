@@ -1,3 +1,5 @@
+*Note:  To be updated, the list below is from 2016 - slowly updating for 2022! Stay tuned*
+
 # Milestone 2 - Release Candidate
 
 For the second milestone (due on Friday, 11/03/2022) you are required to show progress based on the feedback you've received from the mentors about Milestone 1.
