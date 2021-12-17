@@ -2,7 +2,7 @@
 
 # Milestone 3 - Final Presentation (Public Beta)
 
-We are happy to invite you to present your third milestone at **ECS 660**, Friday 02/12/2016 at 1:30pm until 4:30pm.
+We are happy to invite you to present your third milestone at **ECS 104**, TBD at 1:30pm until 4:30pm.
   
 In this meeting, you'll have the opportunity to present the beta version of your project and share your experience with each other (as well as additional guests).
 
@@ -50,5 +50,5 @@ For mobile applications you are required to provide a link to a page which inclu
 
 If you have any questions or comments please do not wait for the milestone meeting, email us at: [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
 
-Good luck,  
-Alexey, Peggy, Cliff, Ian, and Greg
+Good luck!  
+
