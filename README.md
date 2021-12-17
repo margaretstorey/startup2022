@@ -22,11 +22,14 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 | 2 | 21/1/2022 | UI/UX, Design Thinking, Dr. Margaret-Anne Storey <br>Break<br>Storming Ideas and Forming Groups |
 | 3 | 28/1/2022 | [Project proposal presentations](/presenting%20your%20ideas.md)<br>Break <br> Value Proposition Canvas, Dr. Claudia Smith|
 | 4 | 4/2/2022 | Talk Title TBD, Steven Myhill-Jones, Entreprenuer/Investor <br> Break <br> The Tech Stack. Guest presenters: Matthew Smith and Nick Addison, Mazumago<br> | 
-| 5 | 18/2/2022 | [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
-| 6 | 4/3/2022 | Panel with Startup founders: <br> Nicole Smith, Founder & CEO, Flytographer <br> Brandon Wright, CEO, BRNKL <br> Other Panelists TBA |
-| 7 | 11/3/2022 | [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate |
-| 8 | 18/3/2022 | Introduction to Intellectual Property, by Aislinn Sirk, Research Partnerships and Innovation Manager, UVic <br> Break <br>  TBD, by Rob Bennett, COO, ViaTec |
-| 9 | 1/4/2022 | [Milestone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA<br>*(note: time and location of this meeting may change, please reserve Friday April 8th 2-5pm as an alternate time for this)* |
+| 5 | 11/2/2022 | No Course Meeting in lieu of Group Work / Extra Office Hours |
+| 6 | 18/2/2022 | [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
+| 7 | 25/2/2022 | Reading Break |
+| 8 | 4/3/2022 | Panel with Startup founders: <br> Nicole Smith, Founder & CEO, Flytographer <br> Brandon Wright, CEO, BRNKL <br> Other Panelists TBA |
+| 9 | 11/3/2022 | [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate |
+| 10 | 18/3/2022 | Introduction to Intellectual Property, by Aislinn Sirk, Research Partnerships and Innovation Manager, UVic <br> Break <br>  TBD, by Rob Bennett, COO, ViaTec |
+| 11 | 25/3/2022 | No Course Meeting in lieu of Group Work / Extra Office Hours |
+| 12 | 1/4/2022 | [Milestone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA<br>*(note: time and location of this meeting may change, please reserve Friday April 8th 2-5pm as an alternate time for this)* |
 | | 15/4/2022 | [Final submission](/final%20submission.md) (by email, no meeting)
 
 ---
