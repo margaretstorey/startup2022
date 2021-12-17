@@ -1,3 +1,6 @@
+
+*Note:  To be updated, the list below is from 2016 - slowly updating for 2022! Stay tuned*
+
 # Presenting Your Ideas
 In our third meeting (28/01/2022) you should present your project idea.
 
