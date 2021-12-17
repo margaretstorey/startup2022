@@ -1,3 +1,5 @@
+*Note:  To be updated, the list below is from 2016 - slowly updating for 2022! Stay tuned*
+
 # Milestone 3 - Final Presentation (Public Beta)
 
 We are happy to invite you to present your third milestone at **ECS 660**, Friday 02/12/2016 at 1:30pm until 4:30pm.
