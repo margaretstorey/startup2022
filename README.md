@@ -50,7 +50,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 **Teams and Projects:**  
 View current and past [teams and projects](teams and projects.md).
 
-**Office Hour:** By appointment. Friday 11:00am-12:00pm over zoom (please send an email to set an alternative meeting time) 
+**Office Hour:** By appointment and by zoom. Friday 11:00am-12:00pm over zoom (please send an email to set an alternative meeting time) 
 
 **Contact email:** [mstorey@uvic.ca](mailto:mstorey@uvic.ca)
 
