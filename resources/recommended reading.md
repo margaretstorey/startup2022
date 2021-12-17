@@ -46,6 +46,7 @@ To be updated, the list below is from 2016.
 ---
 
 ### Recommended Watching
+- How great leaders inspire action, Simon Sinek [https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en]
 - How to Start a Startup course at Stanford by Y-Combinator [[link](http://startupclass.samaltman.com/)]
 - Office Hours with Kevin & Qasar [[YouTube](https://www.youtube.com/watch?v=9cWPxuxqdGQ)]
 - Jessica Livingston at Startup School 2012 [[YouTube](https://www.youtube.com/watch?v=KQJ6zsNCA-4)]
