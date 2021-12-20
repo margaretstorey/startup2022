@@ -8,6 +8,7 @@ To be updated, the list below is from 2016 - slowly updating for 2022! Stay tune
 
 #### Startups
 - The Lean Startup by Eric Ries ([Amazon](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898), [YouTube](https://www.youtube.com/watch?v=fEvKo90qBns))
+- The Art of the Start
 - Crossing the Chasm [https://www.harpercollins.com/products/crossing-the-chasm-3rd-edition-geoffrey-a-moore?variant=32130444066850] 
 - Peak
 - Innovator's Dilemma [https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma] 
