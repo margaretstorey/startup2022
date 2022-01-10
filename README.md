@@ -21,7 +21,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 | 1 | 14/01/2022 | Course Introduction and Expectations <br> Introductions <br> Some Pointers about IP, by Aislinn Sirk, Research Partnerships and Innovation Manager, UVIC <br> Founder's Story, A Q&A with Juan Orrego, [Cuboh](https://www.cuboh.com/)<br>Break<br>Ideation and Creativity, Dr. Claudia Smith|
 | 2 | 21/1/2022 | UI/UX, Design Thinking, Dr. Margaret-Anne Storey <br>Break<br>Storming Ideas and Forming Groups |
 | 3 | 28/1/2022 | [Project proposal presentations](/presenting%20your%20ideas.md)<br>Break <br> Value Proposition Canvas, Dr. Claudia Smith|
-| 4 | 4/2/2022 | Talk Title TBD, Steven Myhill-Jones, Entreprenuer/Investor <br> Break <br> The Tech Stack. Guest presenters: Matthew Smith and Nick Addison, Mazumago<br> | 
+| 4 | 4/2/2022 | Talk Title TBD, Steven Myhill-Jones, Entreprenuer/Investor <br> Break <br> The Tech Stack. Guest presenters: Matthew Smith and Nick Addison, Mazumago<br> TBD. Guest Presenter: Steve Graham (https://www.linkedin.com/in/stevegraham2/) <br> | 
 | 5 | 11/2/2022 | No Course Meeting in lieu of Group Work / Extra Office Hours |
 | 6 | 18/2/2022 | [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
 | 7 | 25/2/2022 | Reading Break |
@@ -44,6 +44,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 - [Margaret-Anne Storey, Professor, Computer Science, UVic](https://margaretstorey.com/)
 
 **Additional Presenters:**
+- Steve Graham, Consulting CTO and Architect (https://www.linkedin.com/in/stevegraham2/) 
 - Juan Orrego, Cuboh
 - Aislinn Sirk, UVic
 - Matthew Smith and Nick Addison, Mazumago
@@ -53,10 +54,9 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 **Teams and Projects:**  
 View current and past [teams and projects](teams and projects.md).
 
-**Office Hour:** By appointment and by zoom. Friday 11:00am-12:00pm over zoom (please send an email to set an alternative meeting time) 
+**Office Hour:** By appointment and by zoom. Friday 11:00am-12:00pm overzoom (please send an email to set an alternative meeting time) 
 
 **Contact email:** [mstorey@uvic.ca](mailto:mstorey@uvic.ca)
-
 
 ## License 
 TBD.
