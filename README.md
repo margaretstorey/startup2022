@@ -27,7 +27,7 @@ After that will meet at [ECS](https://www.uvic.ca/search/maps-buildings/building
 | 5 | 11/2/2022 | No Course Meeting in lieu of Group Work / Extra Office Hours |
 | 6 | 18/2/2022 | [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
 | 7 | 25/2/2022 | Reading Break |
-| 8 | 4/3/2022 | Panel with Startup founders: <br> Nicole Smith, Founder & CEO, Flytographer <br> Brandon Wright, CEO, BRNKL <br> Other Panelists TBA |
+| 8 | 4/3/2022 | Panel with Startup founders: <br> Nicole Smith, Founder & CEO, Flytographer <br> Brandon Wright, Founder & CEO, BRNKL <br> Humaira Ahmed, Founder & CEO, Locelle Digital Inc. <br> |
 | 9 | 11/3/2022 | [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate |
 | 10 | 18/3/2022 | Introduction to Intellectual Property, by Aislinn Sirk, Research Partnerships and Innovation Manager, UVic <br> Break <br>  TBD, by Rob Bennett, COO, ViaTec |
 | 11 | 25/3/2022 | No Course Meeting in lieu of Group Work / Extra Office Hours |
@@ -46,6 +46,7 @@ After that will meet at [ECS](https://www.uvic.ca/search/maps-buildings/building
 - [Margaret-Anne Storey, Professor, Computer Science, UVic](https://margaretstorey.com/)
 
 **Additional Presenters:**
+- Humaira Ahmed, Locelle Digital Inc. (https://locelle.com/) 
 - Steve Graham, Consulting CTO and Architect (https://www.linkedin.com/in/stevegraham2/) 
 - Juan Orrego, Cuboh
 - Aislinn Sirk, UVic
