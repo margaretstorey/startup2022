@@ -13,7 +13,7 @@ General Requirements:
 
 Each team is required to do the following:
 
-1. Follow the updates on the site.
+1. Follow the updates on this GitHub site.
 2. Attend all the lectures along the semester.
 3. Come up with a project and present the idea, scope and architecture to the class (5% of grade).
     - Obtain approval for the project.
