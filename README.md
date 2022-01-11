@@ -12,7 +12,9 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 
 ---
 
-**Classes will be on Fridays 2pm-5pm at [ECS](https://www.uvic.ca/search/maps-buildings/buildings/engineering-computer-science.php) 104:**  
+**Classes will be on Fridays 2pm-5pm and held online in the first weeks of term.
+Please refer to Brightspace for the zoom link (or email me if you need it). 
+After that will meet at [ECS](https://www.uvic.ca/search/maps-buildings/buildings/engineering-computer-science.php) 104:**  
 (*Tentative schedule, slides are in the [**resources section**](resources)*)
 
 
