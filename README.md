@@ -24,7 +24,7 @@ After that will meet at [ECS](https://www.uvic.ca/search/maps-buildings/building
 | 2 | 21/1/2022 | UI/UX, Design Thinking, Dr. Margaret-Anne Storey <br>Break<br>Storming Ideas and Forming Groups |
 | 3 | 28/1/2022 | [Project proposal presentations](/presenting%20your%20ideas.md)<br>Break <br> Value Proposition Canvas, Dr. Claudia Smith|
 | 4 | 4/2/2022 | Talk Title TBD, Steven Myhill-Jones, Entreprenuer/Investor <br> Break <br> The Tech Stack. Guest presenters: Matthew Smith and Nick Addison, Mazumago<br> TBD. Guest Presenter: Steve Graham (https://www.linkedin.com/in/stevegraham2/) <br> | 
-| 5 | 11/2/2022 | No Course Meeting in lieu of Group Work / Extra Office Hours |
+| 5 | 11/2/2022 | TBD - Guest Presenters |
 | 6 | 18/2/2022 | [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
 | 7 | 25/2/2022 | Reading Break |
 | 8 | 4/3/2022 | Panel with Startup founders: <br> Nicole Smith, Founder & CEO, Flytographer <br> Brandon Wright, Founder & CEO, BRNKL <br> Humaira Ahmed, Founder & CEO, Locelle Digital Inc. <br> |
