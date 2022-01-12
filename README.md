@@ -12,8 +12,8 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 
 ---
 
-**Classes will be on Fridays 2pm-5pm and held online in the first weeks of term.
-Please refer to Brightspace for the zoom link (or email me if you need it). 
+**Classes will be on Fridays 2pm-5pm and held online in the first weeks of term (until at least Jan 24th).
+Please refer to Brightspace for the zoom link (or email me if you need it) for updated information. 
 After that will meet at [ECS](https://www.uvic.ca/search/maps-buildings/buildings/engineering-computer-science.php) 104:**  
 (*Tentative schedule, slides are in the [**resources section**](resources)*)
 
@@ -54,7 +54,7 @@ After that will meet at [ECS](https://www.uvic.ca/search/maps-buildings/building
 - Nicole Smith, Flytographer
 - David Yarish, Tutela
 
-**Alumni Mentors and Presenters from previous UVic Startup courses:**
+**Alumni Mentors and Presenters [from prior UVic Startup courses](https://github.com/margaretstorey/startup2022/tree/main/past%20semesters):**
 - [Alexey Zagalsky](http://alexeyza.com/) (Founder of the course at UVic and Tel Aviv!)
 - [Cliff McCollum](https://ca.linkedin.com/in/cliffmccollum)
 - [Ian Bull](http://ianbull.com/)
@@ -65,9 +65,9 @@ After that will meet at [ECS](https://www.uvic.ca/search/maps-buildings/building
 **Teams and Projects:**  
 TBD
 
-**Office Hour:** By appointment and by zoom. Friday 11:00am-12:00pm overzoom (please send an email to set an alternative meeting time) 
+**Office Hour:** By appointment and by zoom. Friday 11:00am-12:00pm over zoom (please message on Slack or send [email](mailto:startup.programming@gmail.com) to set an alternative meeting time) 
 
-**Contact email:** [mstorey@uvic.ca](mailto:mstorey@uvic.ca)
+**Contact email:** [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
 
 ## License
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). This doesn't include the students' projects, which are hosted on separate repositories and each have their own license.
