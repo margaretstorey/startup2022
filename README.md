@@ -8,7 +8,7 @@ This course aims to give students the tools and skills to rapidly develop and tr
 
 Projects will include designing and developing a live web system. Each team will also maintain a web page with project documentation and design documents.
 
-See [course requirements](requirements.md) and [student testimonials](testimonials.md).
+See [course requirements](requirements.md) and [student testimonials](testimonials.md) and great resources at [prior StartUp courses at UVic and Tel Aviv](past-semesters.md).
 
 ---
 
@@ -54,8 +54,20 @@ After that will meet at [ECS](https://www.uvic.ca/search/maps-buildings/building
 - Nicole Smith, Flytographer
 - David Yarish, Tutela
 
+**Alumni Mentors:**
+- [Alexey Zagalsky](http://alexeyza.com/) (Founder of the course at UVic and Tel Aviv!)
+- [Cliff McCollum](https://ca.linkedin.com/in/cliffmccollum)
+- [Ian Bull](http://ianbull.com/)
+- [Gregory Schier](http://schier.co/)
+- [Eirini Kalliamvakou](https://www.linkedin.com/in/eirini-kalliamvakou-1016865/?originalSubdomain=ca)
+- [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
+
+**Previous Iterations of this Course at UVic:**
+- 
+
+
 **Teams and Projects:**  
-View current and past [teams and projects](teams and projects.md).
+TBD
 
 **Office Hour:** By appointment and by zoom. Friday 11:00am-12:00pm overzoom (please send an email to set an alternative meeting time) 
 
