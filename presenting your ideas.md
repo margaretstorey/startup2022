@@ -1,10 +1,10 @@
 
-*Note:  To be updated, the list below is from 2016 - slowly updating for 2022! Stay tuned*
+:construction: *Note: This page/list is under review. Stay tuned!*
 
 # Presenting Your Ideas
-In our third meeting (28/01/2022) you should present your project idea.
+In our third meeting (**28/01/2022**) you should present your project idea.
 
-You will be given 15 minutes as follows:
+You will be given **15 minutes** as follows:
 
 - In the first 5 minutes you will present the main scenario (**use-case**) and users (**target audience**) that your application targets.
     - Describe the situation, the need (**the problem**), the data involved, and the decisions made in the process.
@@ -18,7 +18,7 @@ You will be given 15 minutes as follows:
 
 - Early feedback is a good thing! It is advisable that you send us your idea as soon as possible via email ([startup.programming@gmail.com](mailto:startup.programming@gmail.com)) - this can save you a lot of time (e.g. if you took a wrong direction, impossible mission, etc.).
 - 15 minutes is a very short time!
-- If you are preparing a power point presentation - **do not prepare more than 5 slides** (including cover slide).
+- If you plan to use slides for your presentation (PowerPoint or Google Slides), avoid adding much text/content per slide. Also, there is not a limited number of slides that you can use. However, to prevent issues with timing, you can consider preparing no more than 5 slides.
 - Be visual: if you have already thought about user interface, you may show a sketch of it in the presentation.
 - You may bring your own laptop (so no compatibility problems would occur during your presentation).
 - Be simple and precise.
