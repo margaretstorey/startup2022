@@ -19,16 +19,16 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 
 | | Date | Meeting agenda |
 | ---:| ---------- | -------------- |
-| 1 | 14/01/2022 | 2:00-2:30 :speaker: Course Overview and Mentor Introductions <br> 2:30-3:00 :speaker: Founder's Story, A Q&A with Juan Orrego (Cuboh) <br> 3:00-3:10 :speaker: Some Pointers about Intellectual Property for Projects, by Aislinn Sirk (UVic) <br> 3:10-3:20 :coffee: Break <br> 3:20-4:50 :speaker: Ideation and Creativity, Dr. Claudia Smith (UVic) |
+| 1 | 14/01/2022 | 2:00-2:30 :speaker: Course Overview and Mentor Introductions <br> 2:30-3:00 :speaker: Founder's Story, A Q&A with Juan Orrego (Cuboh) <br> 3:00-3:10 :speaker: Some Pointers about Intellectual Property for Projects, Aislinn Sirk (UVic) <br> 3:10-3:20 :coffee: Break <br> 3:20-4:50 :speaker: Ideation and Creativity, Dr. Claudia Smith (UVic) |
 | 2 | 21/1/2022 | :speaker: UI/UX, Design Thinking, Dr. Margaret-Anne Storey (UVic) <br> :coffee: Break <br> :busts_in_silhouette: Storming Ideas and Forming Groups |
 | 3 | 28/1/2022 | :triangular_flag_on_post: [Project proposal presentations](/presenting%20your%20ideas.md) <br> :coffee: Break <br> :speaker: Value Proposition Canvas, Dr. Claudia Smith (Uvic) |
-| 4 | 4/2/2022 | :speaker: *Talk title to be confirmed*, Steven Myhill-Jones (Entreprenuer/Investor) <br> :speaker: *Talk title to be confirmed*, Sam Mod (Founder/CEO) <br> :coffee: Break <br> :speaker: The Tech Stack. Guest presenters: Matthew Smith and Nick Addison (Mazumago) <br> :speaker: *Talk title to be confirmed*. Guest Presenter: Steve Graham (Consulting) <br> | 
+| 4 | 4/2/2022 | :speaker: *Talk title to be confirmed*, Steven Myhill-Jones (Entreprenuer & Investor) <br> :speaker: *Talk title to be confirmed*, Sam Mod (FreshWorks Studio) <br> :coffee: Break <br> :speaker: The Tech Stack. Guest presenters: Matthew Smith and Nick Addison (Mazumago) <br> :speaker: *Talk title to be confirmed*. Guest Presenter: Steve Graham (Consulting) <br> | 
 | 5 | 11/2/2022 | :speaker: *Talk title to be confirmed* - Guest Presenters |
 | 6 | 18/2/2022 | :triangular_flag_on_post: [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
 | 7 | 25/2/2022 | :warning: Reading Break - No Course Meeting |
-| 8 | 4/3/2022 | :speaker: Panel with Startup founders: <br> Nicole Smith, Founder & CEO, Flytographer <br> Brandon Wright, Founder & CEO, BRNKL <br> Humaira Ahmed, Founder & CEO, Locelle Digital Inc. <br> Brad van Vugt, Founder & CE), Battlesnake <br> David Yarish, Founder & CEO, Tutela Technologies <br>|
+| 8 | 4/3/2022 | :speaker: Panel with Startup founders: <br> Nicole Smith, Founder & CEO, Flytographer <br> Brandon Wright, Founder & CEO, BRNKL <br> Humaira Ahmed, Founder & CEO, Locelle Digital Inc. <br> Brad van Vugt, Founder & CEO, Battlesnake <br> David Yarish, Founder & CEO, Tutela Technologies <br>|
 | 9 | 11/3/2022 | :triangular_flag_on_post: [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate |
-| 10 | 18/3/2022 | :speaker: Introduction to Intellectual Property, by Aislinn Sirk (UVic) <br> :coffee: Break <br>  :speaker: *Talk title to be confirmed*, by Rob Bennett (COO, ViaTec) |
+| 10 | 18/3/2022 | :speaker: Introduction to Intellectual Property, Aislinn Sirk (UVic) <br> :coffee: Break <br>  :speaker: *Talk title to be confirmed*, Rob Bennett (ViaTec) |
 | 11 | 25/3/2022 | :busts_in_silhouette: No Course Meeting in lieu of Group Work + Extra Office Hours |
 | 12 | 1/4/2022 | :triangular_flag_on_post: [Milestone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA <br> :warning: *(note: time and location of this meeting may change, please reserve Friday April 8th 2-5pm as an alternate time for this)* |
 | | 15/4/2022 | :checkered_flag:[Final submission](/final%20submission.md) *(submission by email)* <br> :busts_in_silhouette: No Course Meeting 
@@ -37,7 +37,7 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 
 **Mentoring Staff:**
 - [Rob Bennett, COO and Program Director, ViaTec](https://www.linkedin.com/in/robebennett/?originalSubdomain=ca)
-- [Sam Mod, CEO and Co-Founder, Freshworks](https://www.linkedin.com/in/samarthmod/?originalSubdomain=ca) 
+- [Sam Mod, CEO and Co-Founder, Freshworks Studio](https://www.linkedin.com/in/samarthmod/?originalSubdomain=ca) 
 - [Steven Myhill-Jones, Entrepreneur/Investor and Founder of Lattitude Geographics](https://www.linkedin.com/in/steven-myhill-jones-6857607/?originalSubdomain=ca)
 - [Brandon Wright, Founder and CEO, BRNKL](https://www.linkedin.com/in/coastalbrandon/?originalSubdomain=ca)
 - [Alessandra Maciel Paz Milani, PhD Student, UVic and Course TA](https://www.linkedin.com/in/alessandrapm/?originalSubdomain=ca)
@@ -48,11 +48,11 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 - Humaira Ahmed, [Locelle Digital Inc.](https://locelle.com/) 
 - [Steve Graham, Consulting CTO and Architect](https://www.linkedin.com/in/stevegraham2/) 
 - Juan Orrego, [Cuboh](https://www.cuboh.com/)
-- [Aislinn Sirk, Research Partnerships and Innovation Manager, UVic](https://www.linkedin.com/in/aislinn-sirk-1728b119)
+- [Aislinn Sirk](https://www.linkedin.com/in/aislinn-sirk-1728b119), Research Partnerships and Innovation Manager, UVic
 - Matthew Smith and Nick Addison, [Mazumago](https://www.mazumago.com/about)
 - Nicole Smith, [Flytographer](https://www.flytographer.com/)
 - [Brad van Vugt](https://www.linkedin.com/in/bradvanvugt/), Co Founder & CEO, Battlesnake
-- [David Yarish, Tutela](https://www.linkedin.com/in/david-yarish-6a055614/?originalSubdomain=ca)
+- [David Yarish](https://www.linkedin.com/in/david-yarish-6a055614/?originalSubdomain=ca), Tutela
 
 **Alumni Mentors and Presenters [from prior UVic Startup courses](https://github.com/margaretstorey/startup2022/tree/main/past%20semesters):**
 - [Alexey Zagalsky](http://alexeyza.com/) (Founder of the course at UVic and Tel Aviv!)
