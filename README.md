@@ -26,7 +26,7 @@ After that will meet at [ECS](https://www.uvic.ca/search/maps-buildings/building
 | 5 | 11/2/2022 | :speaker: *Talk title to be confirmed* - Guest Presenters |
 | 6 | 18/2/2022 | :triangular_flag_on_post: [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
 | 7 | 25/2/2022 | :warning: Reading Break - No Course Meeting |
-| 8 | 4/3/2022 | :speaker: Panel with Startup founders: <br> Nicole Smith, Founder & CEO, Flytographer <br> Brandon Wright, Founder & CEO, BRNKL <br> Humaira Ahmed, Founder & CEO, Locelle Digital Inc. <br> |
+| 8 | 4/3/2022 | :speaker: Panel with Startup founders: <br> Nicole Smith, Founder & CEO, Flytographer <br> Brandon Wright, Founder & CEO, BRNKL <br> Humaira Ahmed, Founder & CEO, Locelle Digital Inc. <br> Brad van Vugt, Founder & CE), Battlesnake <br> David Yarish, Founder & CEO, Tutela Technologies <br>|
 | 9 | 11/3/2022 | :triangular_flag_on_post: [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate |
 | 10 | 18/3/2022 | :speaker: Introduction to Intellectual Property, by Aislinn Sirk (UVic) <br> :coffee: Break <br>  :speaker: *Talk title to be confirmed*, by Rob Bennett (COO, ViaTec) |
 | 11 | 25/3/2022 | :busts_in_silhouette: No Course Meeting in lieu of Group Work + Extra Office Hours |
@@ -51,6 +51,7 @@ After that will meet at [ECS](https://www.uvic.ca/search/maps-buildings/building
 - [Aislinn Sirk, Research Partnerships and Innovation Manager, UVic](https://www.linkedin.com/in/aislinn-sirk-1728b119)
 - Matthew Smith and Nick Addison, [Mazumago](https://www.mazumago.com/about)
 - Nicole Smith, [Flytographer](https://www.flytographer.com/)
+- [Brad van Vugt](https://www.linkedin.com/in/bradvanvugt/), Co Founder & CEO, Battlesnake
 - [David Yarish, Tutela](https://www.linkedin.com/in/david-yarish-6a055614/?originalSubdomain=ca)
 
 **Alumni Mentors and Presenters [from prior UVic Startup courses](https://github.com/margaretstorey/startup2022/tree/main/past%20semesters):**
