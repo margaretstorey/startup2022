@@ -22,7 +22,7 @@ After that will meet at [ECS](https://www.uvic.ca/search/maps-buildings/building
 | 1 | 14/01/2022 | 2:00-2:30 :speaker: Course Overview and Staff Introductions <br> 2:30-3:00 :speaker: Founder's Story, A Q&A with Juan Orrego (Cuboh) <br> 3:00-3:10 :speaker: Some Pointers about Intellectual Property for Projects, by Aislinn Sirk (UVic) <br> 3:10-3:20 :coffee: Break <br> 3:20-4:50 :speaker: Ideation and Creativity, Dr. Claudia Smith (UVic) |
 | 2 | 21/1/2022 | :speaker: UI/UX, Design Thinking, Dr. Margaret-Anne Storey (UVic) <br> :coffee: Break <br> :busts_in_silhouette: Storming Ideas and Forming Groups |
 | 3 | 28/1/2022 | :triangular_flag_on_post: [Project proposal presentations](/presenting%20your%20ideas.md) <br> :coffee: Break <br> :speaker: Value Proposition Canvas, Dr. Claudia Smith (Uvic) |
-| 4 | 4/2/2022 | :speaker: *Talk title to be confirmed*, Steven Myhill-Jones (Entreprenuer/Investor) <br> :coffee: Break <br> :speaker: The Tech Stack. Guest presenters: Matthew Smith and Nick Addison (Mazumago) <br> :speaker: *Talk title to be confirmed*. Guest Presenter: Steve Graham (Consulting) <br> | 
+| 4 | 4/2/2022 | :speaker: *Talk title to be confirmed*, Steven Myhill-Jones (Entreprenuer/Investor) <br> *Talk title to be confirmed*, Sam Mod (Founder/CEO) < br< :coffee: Break <br> :speaker: The Tech Stack. Guest presenters: Matthew Smith and Nick Addison (Mazumago) <br> :speaker: *Talk title to be confirmed*. Guest Presenter: Steve Graham (Consulting) <br> | 
 | 5 | 11/2/2022 | :speaker: *Talk title to be confirmed* - Guest Presenters |
 | 6 | 18/2/2022 | :triangular_flag_on_post: [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
 | 7 | 25/2/2022 | :warning: Reading Break - No Course Meeting |
