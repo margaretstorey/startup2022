@@ -14,7 +14,7 @@ See [course requirements](requirements.md), [student testimonials](testimonials.
 
 :warning: **Classes will be on Fridays 2pm-5pm and held online in the first weeks of term (until at least Jan 24th).
 Please refer to Brightspace for the zoom link (or email me if you need it) for updated information. 
-After that will meet at [ECS](https://www.uvic.ca/search/maps-buildings/buildings/engineering-computer-science.php) 104:**  
+After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/buildings/engineering-computer-science.php) 104:**  
 <br> *Please note this is a tentative schedule. The slides and other materials will be available in the [**resources section**](resources).*
 
 | | Date | Meeting agenda |
