@@ -4,6 +4,8 @@
 
 >"I think this is a terrific course, and the students will likely learn more from this than any other undergraduate course they take; and I feel I've learned as much as the students too" - Ian Bull, EclipseSource, 2014/2015 mentor  
 
+>"I saw some of your Tweets the other day and wanted to reach out after far too long to thank you for running Startup Programming back when I was a fourth year at UVic. As I’ve grown in my own career, I look back on Startup Programming as one of (if not the) most impactful class I took throughout my entire Software Engineering degree. It did a wonderful job of capturing the end to end product development process including market research, reaching out to customers to understand their unmet needs, developing prototypical solutions, translating learnings from those prototypes into a prioritized development plan, testing MVPs in the wild, measuring success/iterating on solutions, and taking a product to market. Beyond teaching effective product development skills, it also taught important interpersonal skills such as leveraging the strengths of others to maximize team throughput, running brainstorming/prioritization exercises, communicating effectively with customers, and resolving team conflicts. These are skills I use daily in my work as a Program Manager on the Edge browser team here at Microsoft." Scott Low, Former UVic/Startup Student and Principal Program Manager at Microsoft.
+
 ### Students describing the course (2014/2015 Fall semester - University of Victoria)
 >"Startup Programming is the most applicable and interesting course I have taken at the University of Victoria as it allows students to grow their ideas into projects that have the potential to make a huge impact on real life customers"  
 
