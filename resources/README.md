@@ -8,9 +8,9 @@ To be posted.
 
 Go to [recommended reading](/resources/recommended%20reading.md) section.
 
-# Resources
+# Technical and Design Resources
 
-Note the following resources have not been updated since 2016. 
+*Note: This list of resources has been growing since 2014 and we are adding to it throughout the term!  Please contribute any resources you think are useful to this page! Newer resources will be listed first in each section.*
 
 ### Useful Links
 
