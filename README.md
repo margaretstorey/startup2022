@@ -19,7 +19,7 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 
 | | Date | Meeting agenda |
 | ---:| ---------- | -------------- |
-| 1 | 14/01/2022 | 2:00-2:30 :speaker: Course Overview and Mentor Introductions <br> 2:30-3:00 :speaker: Founder's Story, A Q&A with Juan Orrego (Cuboh) <br> 3:00-3:10 :speaker: Some Pointers about Intellectual Property for Projects, Aislinn Sirk (UVic) <br> 3:10-3:20 :coffee: Break <br> 3:20-4:50 :speaker: Ideation and Creativity, Dr. Claudia Smith (UVic) |
+| 1 | 14/01/2022 | 2:00-2:30 :speaker: Course Overview and Mentor Introductions <br> 2:30-3:00 :speaker: Founder's Story, A Q&A with Juan Orrego (Cuboh) <br> 3:00-3:10 :speaker: Some Pointers about Intellectual Property for Projects, Aislinn Sirk (UVic) <br> 3:10-3:20 :coffee: Break <br> 3:20-4:50 :speaker: Ideation and Creativity, Dr. Claudia Smith (UVic) -:memo:*Students will need a pen, paper, and ideally 3 dice for the session* |
 | 2 | 21/1/2022 | :speaker: UI/UX, Design Thinking, Dr. Margaret-Anne Storey (UVic) <br> :coffee: Break <br> :busts_in_silhouette: Storming Ideas and Forming Groups |
 | 3 | 28/1/2022 | :triangular_flag_on_post: [Project proposal presentations](/presenting%20your%20ideas.md) <br> :coffee: Break <br> :speaker: Value Proposition Canvas, Dr. Claudia Smith (Uvic) |
 | 4 | 4/2/2022 | :speaker: *Talk title to be confirmed*, Steven Myhill-Jones (Entreprenuer & Investor) <br> :speaker: *Talk title to be confirmed*, Sam Mod (FreshWorks Studio) <br> :coffee: Break <br> :speaker: The Tech Stack. Guest presenters: Matthew Smith and Nick Addison (Mazumago) <br> :speaker: *Talk title to be confirmed*. Guest Presenter: Steve Graham (Consulting) <br> | 
