@@ -2,16 +2,15 @@
 
 ![alt text](https://d262ilb51hltx0.cloudfront.net/max/2000/1*zncFk_rzIO1CCZYz2zDj3A.png "Image by George Lovegrove @ https://medium.com/@georgelovegrove/books-for-founders-at-each-stage-of-a-startup-424d5cb75473#.7uhswc47b")
 
-To be updated, the list below is from 2016 - slowly updating for 2022! Stay tuned
+*Note: We will continuously update these resources and links throughout the term.  Many of this information was gathered in previous Startup courses but hopefully still relevant!  Please contribute resources you find that you find helpful! Newer links will appear at the top of each list.* 
 
 ### Books
 
 #### Startups
-- The Lean Startup by Eric Ries ([Amazon](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898), [YouTube](https://www.youtube.com/watch?v=fEvKo90qBns))
-- The Art of the Start
+- The Art of the Start by Guy Kawasaki (https://guykawasaki.com/books/the-art-of-the-start/) 
 - Crossing the Chasm [https://www.harpercollins.com/products/crossing-the-chasm-3rd-edition-geoffrey-a-moore?variant=32130444066850] 
-- Peak
 - Innovator's Dilemma [https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma] 
+- - The Lean Startup by Eric Ries ([Amazon](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898), [YouTube](https://www.youtube.com/watch?v=fEvKo90qBns))
 - Startup Playbook by Sam Altman ([read online](http://playbook.samaltman.com/), also [available in Spanish](https://platzi.com/startup-playbook/))
 - Founders at Work: Stories of Startups' Early Days by Jessica Livingston ([Amazon](http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788))
 - Getting Real by 37signals ([PDF](https://basecamp.com/about/books/Getting%20Real.pdf))
