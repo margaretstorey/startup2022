@@ -15,7 +15,7 @@ Each team presentation will have **15 minutes** as follows (strict time limit):
 **Some Tips:**
 
 - Early feedback is a good thing! It is advisable that you send us your idea as soon as possible via email ([startup.programming@gmail.com](mailto:startup.programming@gmail.com)) - this can save you a lot of time (e.g. if you took a wrong direction, impossible mission, etc.).
-- 20 minutes is a very short time for your presentation and feedback! You have 10 minutes for your presentation - rehearse your timing.
+- 15 minutes is a very short time for your presentation and feedback! You have 5 minutes for your presentation - rehearse your timing.
 - If you plan to use slides for your presentation (PowerPoint or Google Slides), avoid adding too much text/content per slide. 
 - Be visual: if you have already thought about the user interface, you may show a sketch of it in the presentation.
 - You may bring your own laptop (so no compatibility problems would occur during your presentation).
