@@ -22,7 +22,8 @@ Each team presentation will have **15 minutes** as follows (strict time limit):
 - Be simple and precise.
 - Rehearse your presentation within the team and make sure you are all on the same page.
 - If you have some free time, consider watching the Y Combinator Office Hours videos ([YouTube](https://www.youtube.com/watch?v=9cWPxuxqdGQ))
-- For creating UI mockups consider using [Balsamiq](https://balsamiq.com/download/), free for 30 days. Other UI prototyping tools are listed on the resources page. 
+- Consider the 5 U's of pain when thinking about your idea (https://www.slideshare.net/zephram/the-ideal-business-idea, see slide 6) 
+ For creating UI mockups consider using [Balsamiq](https://balsamiq.com/download/), free for 30 days. Other UI prototyping tools are listed on the resources page. 
 
 **If you haven't done so already, please send us an email with the names of your team members** ([startup.programming@gmail.com](mailto:startup.programming@gmail.com)).
 
