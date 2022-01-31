@@ -4,6 +4,16 @@
 
 To be posted.
 
+
+# Glossary of terms or Startup Jargon
+
+- [91 Startup Terms Every Entrepreneur Should Know](https://visionxpartners.com/startup-terms/) (posted in 2021) -- It covers terms for Business, Marketing, Analytics, Finance, Programming, and Design.
+
+- [The Glossary of Startup Jargon](https://sciencecenter.org/blog/the-glossary-of-startup-jargon) (posted in 2021) -- Blog post to help cut through the confusion and get to the useful knowledge: all the terminology business novices need to know, but in plain speak.
+
+- [Startup Lingo: A Glossary of 65 Business Terms You Need To Succeed](https://medium.com/d-lowe-playbook/startup-lingo-a-glossary-of-business-terms-you-need-to-succeed-48473be7d4bf) (posted in 2018) -- Due to endless abbreviations and expressions in business situations, the author of this post decided to make a list of the ones that he sees the most.
+
+
 # Recommended Reading and Watching
 
 Go to [recommended reading](/resources/recommended%20reading.md) section.
