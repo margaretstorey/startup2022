@@ -7,6 +7,8 @@ To be posted.
 
 # Glossary of terms or Startup Jargon
 
+*Note: the most used terms in business and startups' scope are covered during the course. It would be best to get familiarized with them to facilitate project communication, mainly when receiving feedback from mentors or taking advantage of talks with this course guest speakers.*
+
 - [91 Startup Terms Every Entrepreneur Should Know](https://visionxpartners.com/startup-terms/) (posted in 2021) -- It covers terms for Business, Marketing, Analytics, Finance, Programming, and Design.
 
 - [The Glossary of Startup Jargon](https://sciencecenter.org/blog/the-glossary-of-startup-jargon) (posted in 2021) -- Blog post to help cut through the confusion and get to the useful knowledge: all the terminology business novices need to know, but in plain speak.
