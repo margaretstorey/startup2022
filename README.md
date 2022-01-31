@@ -37,6 +37,7 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 
 **Mentoring Staff:**
 - [Rob Bennett, COO and Program Director, ViaTec](https://www.linkedin.com/in/robebennett/?originalSubdomain=ca)
+- [Steve Graham, Consulting CTO and Architect](https://www.linkedin.com/in/stevegraham2/) 
 - [Sam Mod, CEO and Co-Founder, Freshworks Studio](https://www.linkedin.com/in/samarthmod/?originalSubdomain=ca) 
 - [Steven Myhill-Jones, Entrepreneur/Investor and Founder of Lattitude Geographics](https://www.linkedin.com/in/steven-myhill-jones-6857607/?originalSubdomain=ca)
 - [Brandon Wright, Founder and CEO, BRNKL](https://www.linkedin.com/in/coastalbrandon/?originalSubdomain=ca)
@@ -46,7 +47,6 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 
 **Additional Presenters:**
 - Humaira Ahmed, [Locelle Digital Inc.](https://locelle.com/) 
-- [Steve Graham, Consulting CTO and Architect](https://www.linkedin.com/in/stevegraham2/) 
 - Juan Orrego, [Cuboh](https://www.cuboh.com/)
 - [Aislinn Sirk](https://www.linkedin.com/in/aislinn-sirk-1728b119), Research Partnerships and Innovation Manager, UVic
 - Matthew Smith and Nick Addison, [Mazumago](https://www.mazumago.com/about)
