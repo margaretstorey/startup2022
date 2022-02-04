@@ -22,7 +22,7 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 | 1 | 14 Jan, 2022 | 2:00-2:30 :speaker: Course Overview and Mentor Introductions, Dr. Margaret-Anne Storey <br> 2:30-3:00 :speaker: Founder's Story, A Q&A with Juan Orrego (Cuboh) <br> 3:00-3:10 :speaker: Some Pointers about Intellectual Property for Projects, Aislinn Sirk (UVic) <br> 3:10-3:20 :coffee: Break <br> 3:20-4:50 :speaker: Ideation and Creativity, Dr. Claudia Smith (UVic) -:memo:*Students will need a pen, paper, and ideally 3 dice for the session* |
 | 2 | 21 Jan, 2022 | 2:00-2:30 :speaker: *Founder's Story*, Sam Mod (FreshWorks Studio) <br>  2:30-3:15 :speaker:  *Forming Teams and Selecting Ideas*, Steven Myhill-Jones (Entreprenuer & Investor) <br>  3:15-3:30 :tv: [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en), Simon Sinek <br> 3:30-3:45 :coffee: Break <br> 3:45-4:45 :busts_in_silhouette: Idea Pitch (Guests and Students), Storming Ideas, Forming Groups |
 | 3 | 28 Jan, 2022 | 2:00-3:30 :triangular_flag_on_post: [Project proposal presentations](/presenting%20your%20ideas.md) <br> 3:30-3:45 :coffee: Break <br> 3:45-4:45 :speaker: Value Proposition Canvas, Dr. Claudia Smith (Uvic) |
-| 4 | 4 Feb, 2022 | 2:00-3:10 :speaker: UI/UX, Design Thinking, MVPs Dr. Margaret-Anne Storey (UVic) <br>3:10-3:15 :coffee: Break <br> 3:15-4:00 :speaker: The Tech Stack. Guest presenters: Matthew Smith and Nick Addison (Mazumago) <br> 4:00-4:05 :coffee: Break <br> 4:05-4:50 :speaker: Startups to Enduring Products, Guest Presenter: Steve Graham (Consulting) <br> 4:50-5:30 :office: Informal Office Hour <br> | 
+| 4 | 4 Feb, 2022 | 2:00-3:10 :speaker: Design Thinking, Experience Design, Visual Design and Designing with Users, Dr. Margaret-Anne Storey (UVic) <br>3:10-3:15 :coffee: Break <br> 3:15-4:00 :speaker: The Tech Stack. Guest presenters: Matthew Smith and Nick Addison (Mazumago) <br> 4:00-4:05 :coffee: Break <br> 4:05-4:50 :speaker: Startups to Enduring Products, Guest Presenter: Steve Graham (Consulting) <br> 4:50-5:30 :office: Informal Office Hour <br> | 
 | 5 | 11 Feb, 2022 | :busts_in_silhouette: No Course Meeting in lieu of Group Work + Extra Office Hours/Feedback in ECS 104 |
 | 6 | 18 Feb, 2022 | :triangular_flag_on_post: [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
 | 7 | 25 Feb, 2022 | :warning: Reading Break - No Course Meeting |
@@ -63,7 +63,7 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 - [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
 
 **Teams and Projects:**  
-TBD
+Posted on our Slack channel. 
 
 **Office Hour:** By appointment and by zoom. Friday 11:00am-12:00pm over zoom (please message on Slack or send [email](mailto:startup.programming@gmail.com) to set an alternative meeting time) 
 
