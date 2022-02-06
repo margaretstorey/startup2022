@@ -1,4 +1,3 @@
-*Note:  To be updated, the list below is from 2016 - slowly updating for 2022! Stay tuned*
 
 # Milestone 1 - Proof Of Concept Presentation
 
