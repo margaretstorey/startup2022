@@ -2,7 +2,7 @@
 
 # Milestone 1 - Proof Of Concept Presentation
 
-For the first milestone (due on 18/02/2022) you are required to provide a proof of concept of your project. By the due date you should have created a scenario that exercises the various parts of your application (e.g. client, server, DB, external resources, etc.) and demonstrates the primary use case and novel contribution of the whole project. You are expected to show an **End-to-End demo of your primary feature**. Following this presentation, we will provide some guidelines for the work ahead:
+For the first milestone (due on 18/02/2022) you are required to provide a proof of concept of your project. By the due date you should have created a scenario that exercises the various parts of your application (e.g. client, server, DB, external resources, etc.), one or more personas and you should be able to demonstrate the primary use case and novel contribution of the whole project. You are expected to show an **End-to-End demo of your primary feature and initial MVP**. Following this presentation, we will provide some guidelines for the work ahead:
 
 ### 1. Project Hosting
 
@@ -15,7 +15,7 @@ Host your project at [GitHub](https://github.com/repositories/new), this will se
 
 ### 2. Feature List
 
-Please provide a short list of your top priority features (sorted from the most important to the least). This list should be published as soon as possible on the project web site in the **Issues section** so all team members and the course staff would be on the same page with respect to your project progress. 
+Please provide a short list of your top priority features (sorted from the most important to the least). This list should be published as soon as possible on the project web site in the **Issues section** so all team members and the course staff would be on the same page with respect to your project progress and planning. 
 
 For each feature, state: its name, due date (milestone 1 / milestone 2 / final submission / nice to have), current status, and estimated time needed for completion.
 
@@ -36,31 +36,31 @@ It is important to try and estimate the complexity of the various feature as soo
 
 ### 3. Product Page
 
-Please provide on your main product page (GitHub repository) a link to your live application (web-site / download URL). Although it may not be fully functioning until Milestone 2, it is important to be able to know what the *real* status of the final product is at any given point. Take a look at [past projects](teams%20and%20projects.md#past-teams-and-projects) or other projects on GitHub, to see how a project page can be organized.
+Please provide on your main product page (GitHub repository) a link to your live application or app (web-site / download URL). Although it may not be fully functioning as a MVP until Milestone 2, it is important to be able to know what the *real* status of the final product is at any given point. Take a look at [past projects](teams%20and%20projects.md#past-teams-and-projects) or other projects on GitHub, to see how a project page can be organized.
 
 ### 4. Milestone 1 Presentation (Proof of Concept)
 
 Prepare a 10 minute presentation:
 
 - Start with a live demo that shows what you have accomplished so far (5 minutes).
-    - Focus on the application's main use-case(s) that highlight its novelty and contribution.
-    - If a live demo is impossible, show a demo video.
+    - Focus on the application's main use-case(s) that highlight its novelty and contribution and refer to the personas you developed.
+    - If a live demo is impossible, show a demo video (this may be the case if you recently pivoted).
     - Make sure you have a backup for the demo (either video or screenshots).
 - Continue with a short presentation of: 
     - Your feature list (2 minutes: what is done? which features are expected? how long do you expect the work will take?) 
     - Your road map (1 minute: what to expect in the future milestones? how does it differ from the original estimation?)
-    - Your progress (2 minutes: how did you split the work? what was easy? what was difficult? why?)
+    - Your progress (2 minutes: how did you split the work among the group? what was easy? what was difficult? why?)
 
 **Also, please send us by email: the presentation, a summary document of the above (progress, feature list, road map), and a link to your GitHub repository.**
 
 **Important note:** Full grading for the milestone (15 points) will be given for teams that successfully:
 
-1. Focus on the primary use case and take into account our feedback (feedback summary will be sent to you via email).
+1. Focus on the primary use case and take into account our feedback (feedback summary will be sent to you via email or Slack message).
 2. Follow the project plan while adapting dynamically.
 3. Continuously work throughout the semester.
-4. Demonstrate an interesting, self contained, primary use case of your application.
+4. Demonstrate an interesting, self contained, primary use case of your application that has value.
 5. Give a good presentation (simple, clear, focused, time-framed, sincere).
 
-If you have any questions please do not wait for the milestone meeting, use email: [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
+If you have any questions please do not wait for the milestone meeting, please reach out to us on Slack.
 
 Good luck!
