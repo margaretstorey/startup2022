@@ -48,17 +48,19 @@ Prepare a 10 minute presentation:
 - Continue with a short presentation of: 
     - Your feature list (2 minutes: what is done? which features are expected? how long do you expect the work will take?) 
     - Your road map (1 minute: what to expect in the future milestones? how does it differ from the original estimation?)
-    - Your progress (2 minutes: how did you split the work among the group? what was easy? what was difficult? why?)
+    - Your progress and group reflection what you have learned (2 minutes: how did you split the work among the group, who did what? what was easy? what was difficult? why? See here for some ideas for your group reflection: https://www.atlassian.com/blog/jira-software/5-fun-sprint-retrospective-ideas-templates) 
 
-**Also, please send us by email: the presentation, a summary document of the above (progress, feature list, road map), and a link to your GitHub repository.**
+
+**Also, please send us via private message on Slack: the presentation, a summary document of the above (progress, feature list, road map), group reflection, and a link to your GitHub repository.**
 
 **Important note:** Full grading for the milestone (15 points) will be given for teams that successfully:
 
 1. Focus on the primary use case and take into account our feedback (feedback summary will be sent to you via email or Slack message).
-2. Follow the project plan while adapting dynamically.
+2. Follow the project plan while adapting dynamically and documentation of your project and your progress.
 3. Continuously work throughout the semester.
 4. Demonstrate an interesting, self contained, primary use case of your application that has value.
 5. Give a good presentation (simple, clear, focused, time-framed, sincere).
+6. Reflect on your progress and feedback.
 
 If you have any questions please do not wait for the milestone meeting, please reach out to us on Slack.
 
