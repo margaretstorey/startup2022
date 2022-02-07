@@ -35,7 +35,7 @@ It is important to try and estimate the complexity of the various feature as soo
 
 ### 3. Product Page
 
-Please provide on your main product page (GitHub repository) a link to your live application or app (web-site / download URL). Although it may not be fully functioning as a MVP until Milestone 2, it is important to be able to know what the *real* status of the final product is at any given point. Take a look at [past projects](teams%20and%20projects.md#past-teams-and-projects) or other projects on GitHub, to see how a project page can be organized.
+Please provide on your main product page (GitHub repository) a link to your live application or app (web-site / download URL). Although it may not be fully functioning as a MVP until Milestone 2, it is important to be able to know what the *real* status of the final product is at any given point. 
 
 ### 4. Milestone 1 Presentation (Proof of Concept)
 
