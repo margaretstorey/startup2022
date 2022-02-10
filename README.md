@@ -28,7 +28,7 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 | 7 | 25 Feb, 2022 | :warning: Reading Break - No Course Meeting |
 | 8 | 4 Mar, 2022 | :speaker: Panel with Startup founders: <br> Nicole Smith, Founder & CEO, Flytographer <br> Brandon Wright, Founder & CEO, BRNKL <br> Humaira Ahmed, Founder & CEO, Locelle Digital Inc. <br> Brad van Vugt, Founder & CEO, Battlesnake <br> David Yarish, Founder & CEO, Tutela Technologies <br>|
 | 9 | 11 Mar, 2022 | :triangular_flag_on_post: [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate |
-| 10 | 18 Mar, 2022 | :speaker: Introduction to Intellectual Property, Aislinn Sirk (UVic) <br> :coffee: Break <br>  :speaker: *Talk title to be confirmed*, Rob Bennett (ViaTec) |
+| 10 | 18 Mar, 2022 | :speaker: Intellectual Property, Aislinn Sirk (UVic) <br> :coffee: Break <br>  :speaker: *Tales from a Technical CEO*, Rob Bennett (ViaTec) |
 | 11 | 25 Mar, 2022 | :busts_in_silhouette: No Course Meeting in lieu of Group Work + Extra Office Hours |
 | 12 | 1 Apr, 2022 | :triangular_flag_on_post: [Milestone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA <br> :warning: *(note: time and location of this meeting may change, please reserve Friday April 8th 2-5pm as an alternate time for this)* |
 | | 15 Apr, 2022 | :checkered_flag:[Final submission](/final%20submission.md) *(submission by email)* <br> :busts_in_silhouette: No Course Meeting 
