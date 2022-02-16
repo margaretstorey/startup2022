@@ -24,7 +24,7 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 | 3 | 28 Jan, 2022 | 2:00-3:30 :triangular_flag_on_post: [Project proposal presentations](/presenting%20your%20ideas.md) <br> 3:30-3:45 :coffee: Break <br> 3:45-4:45 :speaker: Value Proposition Canvas, Dr. Claudia Smith (Uvic) |
 | 4 | 4 Feb, 2022 | 2:00-3:10 :speaker: Design Thinking, Experience Design, Visual Design and Designing with Users, Dr. Margaret-Anne Storey (UVic) <br>3:10-3:15 :coffee: Break <br> 3:15-4:00 :speaker: The Tech Stack. Guest presenters: Matthew Smith and Nick Addison (Mazumago) <br> 4:00-4:05 :coffee: Break <br> 4:05-4:50 :speaker: Startups to Enduring Products, Guest Presenter: Steve Graham (Consulting CTO and Architect) <br> 4:50-5:30 :office: Informal Office Hour <br> | 
 | 5 | 11 Feb, 2022 | :busts_in_silhouette: No Course Meeting in lieu of Group Work + Extra Office Hours/Feedback in ECS 104 |
-| 6 | 18 Feb, 2022 | :triangular_flag_on_post: [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept <br> 2:00-2:05 Welcoming and Presentations setup <br> 2:05-2:30 :busts_in_silhouette: Project 1 and Mentor Feedback <br> 2:30-2:55 :busts_in_silhouette: Project 2 and Mentor Feedback <br> 2:55-3:20 :busts_in_silhouette: Project 3 and Mentor Feedback <br> 3:20-3:35 :coffee: Break <br> 3:35-4:00 :busts_in_silhouette: Project 4 and Mentor Feedback <br> 4:00-4:25 :busts_in_silhouette: Project 5 and Mentor Feedback <br> 4:25-4:50 :busts_in_silhouette: Project 6 and Mentor Feedback <br> |
+| 6 | 18 Feb, 2022 | :triangular_flag_on_post: [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept <br> 2:00-2:05 Welcoming and Presentations setup <br> 2:05-2:30 :busts_in_silhouette: Project 1 and Mentors' Feedback <br> 2:30-2:55 :busts_in_silhouette: Project 2 and Mentors' Feedback <br> 2:55-3:20 :busts_in_silhouette: Project 3 and Mentors' Feedback <br> 3:20-3:35 :coffee: Break <br> 3:35-4:00 :busts_in_silhouette: Project 4 and Mentors' Feedback <br> 4:00-4:25 :busts_in_silhouette: Project 5 and Mentors' Feedback <br> 4:25-4:50 :busts_in_silhouette: Project 6 and Mentors' Feedback <br> |
 | 7 | 25 Feb, 2022 | :warning: Reading Break - No Course Meeting |
 | 8 | 4 Mar, 2022 | :speaker: Panel with Startup founders: <br> Nicole Smith, Founder & CEO, Flytographer <br> Brandon Wright, Founder & CEO, BRNKL <br> Humaira Ahmed, Founder & CEO, Locelle Digital Inc. <br> Brad van Vugt, Founder & CEO, Battlesnake <br> David Yarish, Founder & CEO, Tutela Technologies <br>|
 | 9 | 11 Mar, 2022 | :triangular_flag_on_post: [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate |
@@ -63,7 +63,15 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 - [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
 
 **Teams and Projects:**  
-Posted on our Slack channel. 
+| Project Name | Team Members | Tagline | Project Link |
+| ------------ | -------------- | -------------- | -------------- |
+| **Decidr** | to be added | to be added  |
+| **Tandm** _(previously Carpooling)_ | to be added | to be added | [Github link](https://github.com/CobeyH/SENG-480A) |
+| **DevEx** | to be added | to be added | [Github link](https://github.com/devxp-ca/devxp) |
+| **SheTrains** | to be added | to be added | _private repository, request group members access_ |
+| **Slacker** _(previously SlackLine)_ | to be added | to be added | [Github link](https://github.com/CSC485A-Slacker/slacker) |
+| **staSHARE** | to be added | to be added | [Github link](https://github.com/duchuy1999/csc485a-project) |
+<br>
 
 **Office Hour:** By appointment and by zoom. Friday 11:00am-12:00pm over zoom (please message on Slack or send [email](mailto:startup.programming@gmail.com) to set an alternative meeting time) 
 
