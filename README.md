@@ -65,12 +65,12 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 **Teams and Projects:**  
 | Project Name | Team Members | Tagline | Project Link |
 | ------------ | -------------- | -------------- | -------------- |
-| **Decidr** | to be added | to be added  |
-| **Tandm** _(previously Carpooling)_ | to be added | to be added | [Github link](https://github.com/CobeyH/SENG-480A) |
-| **DevEx** | to be added | to be added | [Github link](https://github.com/devxp-ca/devxp) |
-| **SheTrains** | to be added | to be added | _private repository, request group members access_ |
-| **Slacker** _(previously SlackLine)_ | to be added | to be added | [Github link](https://github.com/CSC485A-Slacker/slacker) |
-| **staSHARE** | to be added | to be added | [Github link](https://github.com/duchuy1999/csc485a-project) |
+| **Decidr** | Carlson, Davis; Zlonicky, Joe | _to be added_  | _to be added_ |
+| **Tandm** _(previously Carpooling)_ | Dunn, Marcus; Hollier, Cobey; Hill, Samantha; Johnson, Douglas; Park, Jae | _to be added_ | [Github link](https://github.com/CobeyH/SENG-480A) |
+| **DevEx** | Enns, Keanu; Korsch, Sabrina; Petrone, Chris; Robinson, Derek; Wilkes, Brennan | _to be added_ | [Github link](https://github.com/devxp-ca/devxp) |
+| **SheTrains** | Cusi, Tristan; Lyne, Shaun; Chiang, Gordon; Newcombe, Dave; Van Brummelen, Matthew | to be added | _private repository, request group members access_ |
+| **Slacker** _(previously SlackLine)_ | Kosman, Sam; Micetich, Brendan; Bonnici, Karl; Borinaga, Dianna; Huang, Yiming | _to be added_ | [Github link](https://github.com/CSC485A-Slacker/slacker) |
+| **staSHARE** | Luong, Nam; Nguyen, Huy; Donaldson, Isaac; Felea-Motet, Mark; Smith, Kersten | _to be added_ | [Github link](https://github.com/duchuy1999/csc485a-project) |
 <br>
 
 **Office Hour:** By appointment and by zoom. Friday 11:00am-12:00pm over zoom (please message on Slack or send [email](mailto:startup.programming@gmail.com) to set an alternative meeting time) 
