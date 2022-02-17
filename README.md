@@ -65,7 +65,7 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 **Teams and Projects:**  
 | Project Name | Team Members | Tagline | Project Link |
 | ------------ | -------------- | -------------- | -------------- |
-| **Decidr** | Carlson, Davis; Zlonicky, Joe | _to be added_  | _to be added_ |
+| **Decidr** | Carlson, Davis; Zlonicky, Joe | _to be added_  | [Github link](https://github.com/JoeZlonicky/decidr) |
 | **Tandm** _(previously Carpooling)_ | Dunn, Marcus; Hollier, Cobey; Hill, Samantha; Johnson, Douglas; Park, Jae | _to be added_ | [Github link](https://github.com/CobeyH/SENG-480A) |
 | **DevEx** | Enns, Keanu; Korsch, Sabrina; Petrone, Chris; Robinson, Derek; Wilkes, Brennan | _to be added_ | [Github link](https://github.com/devxp-ca/devxp) |
 | **SheTrains** | Cusi, Tristan; Lyne, Shaun; Chiang, Gordon; Newcombe, Dave; Van Brummelen, Matthew | to be added | _private repository, request group members access_ |
