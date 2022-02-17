@@ -48,7 +48,7 @@ Prepare a 10 minute presentation:
 - Continue with a short presentation of: 
     - Your feature list (2 minutes: what is done? which features are expected? how long do you expect the work will take?) 
     - Your road map (1 minute: what to expect in the future milestones? how does it differ from the original estimation?)
-    - Your progress and group reflection what you have learned (2 minutes: how did you split the work among the group, who did what? what was easy? what was difficult? why? See here for some ideas for your group reflection: https://www.atlassian.com/blog/jira-software/5-fun-sprint-retrospective-ideas-templates) 
+    - Your progress and group reflection what you have learned (2 minutes: how did you split the work among the group, who did what? what was easy? what was difficult? why? See [here for some ideas](https://www.atlassian.com/blog/jira-software/5-fun-sprint-retrospective-ideas-templates) for your group reflection) 
 
 
 **Also, please send us via private message on Slack: the presentation, a summary document of the above (progress, feature list, road map), group reflection, and a link to your GitHub repository.**
