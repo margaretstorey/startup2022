@@ -52,7 +52,7 @@ You are required to continue working on your GitHub repository and project page.
 6. Providing a link to the live application.
 7. Give a good presentation (simple, clear, focused, time-framed, sincere)
 
-Further breakdown in how the scores will be computed:
+A further breakdown of how the final score will be computed:
 - Project Hosting / GitHub = 4 points
   - 2 for Project Hosting & Organization
   - 2 for Product Page
