@@ -18,9 +18,11 @@ Prepare a **10-minute presentation**:
 
 The project's presentation order will be decided on the presentation day (the same approach used for Milestone 1 presentations).
 
-After your presentation, we open for a 12-15 minutes Q&A session. 
+After your presentation, we will open for a 12-15 minutes Q&A session. 
 
 You should also be prepared to talk about your development process, in case you are asked: what is your plan for the next Milestone? how long do you expect the work would take? how did you split the work? what was easy? what was difficult? what risks lay ahead? Have some prepared slides on these points that we can refer to but you do not need to present them.
+
+Please send us a copy of your presentation/slides (or link) via message on your group Slack channel until 1 pm on March 11.
 
 
 ### Project Hosting (GitHub)
