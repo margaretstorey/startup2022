@@ -27,10 +27,11 @@ Please send us a copy of your presentation/slides (or link) via message on your 
 
 ### Project Hosting (GitHub)
 
-You are required to continue working on your GitHub repository and project page.
+You are required to continue working on your GitHub repository and product page.
 - **Provide a link to your live application.**
-- Keep the project documentation updated (e.g., list of issues/features, wiki, technical details for the implementation; team contributions; license; ...).
+- Keep the project documentation updated (e.g., list of issues/features, wiki, technical details for the implementation; team contributions; license;).
 - Present a clear product page considering a potential final user (e.g., include screenshots of how they will be using your application).
+- Please read [this document carefully](https://docs.google.com/document/d/1qozhqNO6fsd3kkaVSbxfcLA1QUXH4BmD_FBxo_ZxMMU/edit?usp=sharing) (additional details on project documentation and the teaching team expectations).
 
 
 ### Some general advice
