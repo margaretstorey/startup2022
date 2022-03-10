@@ -83,7 +83,7 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 ![Alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Attribution-ShareAlike 4.0 International License")
 
 ## Intellectual Property Ownership
-Students are asked to consult with the [project participant agreement](resources/Project_Participant_Agreement.pdf). UVic will agree to waive its
+Students are asked to consult with the [project participant agreement](resources/Project_Participant_Agreement_c.pdf). UVic will agree to waive its
 interest in such IP under the following conditions:
 
 1. A class list and list of associated projects (contained with the attached [Project Participant Agreement](resources/Project_Participant_Agreement.pdf)) is provided to ORS (via RPKM) **within 1 month** of the start date of the course, and
