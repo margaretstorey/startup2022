@@ -2,24 +2,24 @@
 
 We are happy to invite you to present your third milestone at **ECS 104**, April 1st 2pm-5pm
   
-In this meeting, you'll have the opportunity to present the beta version of your project and share your experience with each other, the mentors as well as additional guests!
+In this meeting, you'll have the opportunity to present the beta version of your project and share your experience with each other, the mentors as well as additional guests! Each team will have **10 minutes** followed by Q&A and questions by mentors, guests and other students.  At 5pm, we will have a small party to celebrate your accomplishments. 
 
 We remind you that for this third milestone you are required to provide a fully functioning project, that will be evaluated by the mentoring staff. You will get valuable feedback regarding the expected final project configuration and scope.  **By the third milestone you should have completed your product** (except for some minor bugs which you may fix until the [Final Submission](/final%20submission.md)). 
 
-Please send us the presentation (and any other document that you think would be useful for us to better evaluate your work) by email beforehand. As we may have additional guests that did not attend your previous presentations, **make sure your presentation is self contained**.  
+Please send us the presentation by email beforehand. As we may have additional guests that did not attend your previous presentations, **make sure your presentation is self contained**.  
 
-Please include in your presentation:
+Please include in your presentation (max: 10 minutes):
 
-- Product overview and motivation: a pitch of no more than 90 seconds - aim this at a "new and general audience", see below for resources on how to prepare your pitch.
-- Demo (from the perspective of your personas that show the main scenarios and features)
-- Your insights of testing your product with real users
+- **Pitch**:  Product overview and motivation (Maximum: 90 seconds).
+- **Demo**: Show your product from the perspective of your personas that show the main scenarios and features (approx. 4-5 mins)
+- **User feedback**: Share the insights you have gained by testing your product with real users/customers (approx. 2-3 mins)
+- **Next steps**: Tell us what you plan to do before the end of term and after the course. *Note: Bonus marks if you include a description of how you will monetize your product!* (approx. 1-2 mins)
 
-Some general advice:
+Some advice:
 
-- For the pitch refer to these guidelines: 
-- Prepare an appealing demo! You only have a short time for the demonstration so start with your key features and give an overview of what the app is about for guests who will be there for the first time
-- If you are demonstrating social features of your gadget, or any other features that require prior preparations - please prepare them in advance! (e.g. creating social networks of several users). 
-- Please remember to keep your documents up to date on GitHub. 
+- Aim your **pitch** at a "new and general audience".  See below for resources on how to prepare an effective and compelling  pitch. 
+- Prepare an appealing **demo**! You only have a short time for the demonstration, so start with your key features and give an overview of what the app is about for guests who will be there for the first time.  If you are demonstrating social features or any other features that require prior preparations - prepare them in advance! (e.g. creating social networks of several users). 
+- Please remember to keep your **documents** up to date on GitHub. 
 
 **Important note:** Full grading for the milestone (25 points) will be given for teams that successfully:
 
@@ -32,10 +32,11 @@ Some general advice:
 7. Gave a good presentation (simple, clear, focused, time-framed, sincere).
 8. Kept documentation up to date
 9. Summarized insights on user testing 
+10. Bonus marks will be awarded for teams that include a plan how to monetize their product. 
 
 **Important note:** This is not the final submission of your project. Please see details on the [Final Submission](/final%20submission.md) page.
 
-If you have any questions or comments please do not wait for the milestone meeting, please contact us on Slack.
+If you have any questions or comments please do not wait for the milestone meeting, please contact the course staff us on Slack.
 
 Good luck!  
 
