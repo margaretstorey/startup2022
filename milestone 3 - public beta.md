@@ -21,6 +21,9 @@ Some advice:
 - Prepare an appealing **demo**! You only have a short time for the demonstration, so start with your key features and give an overview of what the app is about for guests who will be there for the first time.  If you are demonstrating social features or any other features that require prior preparations - prepare them in advance! (e.g. creating social networks of several users). 
 - Please remember to keep your **documents** up to date on GitHub. 
 
+How to "pitch" resources: 
+- Coming soon!
+
 **Important note:** Full grading for the milestone (25 points) will be given for teams that successfully:
 
 1. Focused on the primary use case and take into account our feedback from milestone 2 or earlier.
