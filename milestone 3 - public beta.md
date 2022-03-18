@@ -17,12 +17,18 @@ Please include in your presentation (max: 10 minutes):
 
 Some advice:
 
-- Aim your **pitch** at a "new and general audience".  See below for resources on how to prepare an effective and compelling  pitch. 
+- Aim your **pitch** at a "new and general audience".  See below for resources on how to prepare an effective and compelling  pitch.  
 - Prepare an appealing **demo**! You only have a short time for the demonstration, so start with your key features and give an overview of what the app is about for guests who will be there for the first time.  If you are demonstrating social features or any other features that require prior preparations - prepare them in advance! (e.g. creating social networks of several users). 
 - Please remember to keep your **documents** up to date on GitHub. 
 
 How to "pitch" resources: 
-- Coming soon!
+-  You can do this without a deck or use "pitch deck". Staying within time is critical. But be clear: who is your pitch aimed at? An investor, a customer? 
+-  [How to build a great pitch](https://learn.marsdd.com/article/how-to-build-a-great-pitch/) 
+- [How to pitch at YCombinator](https://www.ycombinator.com/library/22-pitch) Note this is aimed more at an investor but has good advice, and who knows maybe someone that sees this may want to invest in you!
+- [How to pitch your Startup](https://www.youtube.com/watch?v=17XZGUX_9iM) Note this is also aimed at investors. 
+- [StartupFest pitch competition winners](https://www.youtube.com/watch?v=X1M2LcL5Oo4) This also shows questions that are asked! 
+- [How to Pitch One Pager]()
+- [Chapter from Get Backed Book]()
 
 **Important note:** Full grading for the milestone (25 points) will be given for teams that successfully:
 
