@@ -63,7 +63,7 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 - [Eirini Kalliamvakou](https://www.linkedin.com/in/eirini-kalliamvakou-1016865/?originalSubdomain=ca)
 - [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
 
-**Teams and Projects:**  
+[**Teams and Projects:**](#teams) 
 | Project Name | Team Members | Tagline | Project Link |
 | ------------ | -------------- | -------------- | -------------- |
 | **Decidr** | Carlson, Davis; Zlonicky, Joe | _to be added_  | [Github link](https://github.com/JoeZlonicky/decidr) |
