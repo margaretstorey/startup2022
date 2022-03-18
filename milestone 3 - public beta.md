@@ -27,8 +27,8 @@ How to "pitch" resources:
 - [How to pitch at YCombinator](https://www.ycombinator.com/library/22-pitch) Note this is aimed more at an investor but has good advice, and who knows maybe someone that sees this may want to invest in you!
 - [How to pitch your Startup](https://www.youtube.com/watch?v=17XZGUX_9iM) Note this is also aimed at investors. 
 - [StartupFest pitch competition winners](https://www.youtube.com/watch?v=X1M2LcL5Oo4) This also shows questions that are asked! 
-- [How to Pitch One Pager]()
-- [Chapter from Get Backed Book]()
+- [How to Pitch One Pager](https://github.com/margaretstorey/startup2022/blob/main/How%20to%20Pitch%20-%201%20page%20summary%20reading1.pdf)
+- [Chapter from Get Backed Book](https://github.com/margaretstorey/startup2022/blob/main/Get%20Backed%20-%20Pitch%20Deck.pdf)
 
 **Important note:** Full grading for the milestone (25 points) will be given for teams that successfully:
 
