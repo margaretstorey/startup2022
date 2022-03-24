@@ -35,7 +35,8 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 
 ---
 
-**Mentoring Staff:**
+<a name="mentoring-staff"></a>
+#### Mentoring Staff
 - [Rob Bennett, COO and Program Director, ViaTec](https://www.linkedin.com/in/robebennett/?originalSubdomain=ca)
 - [Steve Graham, Consulting CTO and Architect](https://www.linkedin.com/in/stevegraham2/) 
 - [Sam Mod, CEO and Co-Founder, Freshworks Studio](https://www.linkedin.com/in/samarthmod/?originalSubdomain=ca) 
