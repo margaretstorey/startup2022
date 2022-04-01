@@ -72,7 +72,7 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 | **Decidr** | Carlson, Davis; Zlonicky, Joe | Because democracy is hard | [Github link](https://github.com/JoeZlonicky/decidr) |
 | **Tandm** _(previously Carpooling)_ | Dunn, Marcus; Hollier, Cobey; Hill, Samantha; Johnson, Douglas; Park, Jae | Carpooling made easy. Carpooling made social. | [Github link](https://github.com/CobeyH/SENG-480A) |
 | **DevXP** _(previously DevEx)_ | Enns, Keanu; Korsch, Sabrina; Petrone, Chris; Robinson, Derek; Wilkes, Brennan | Empowering developers to create enterprise-quality cloud infrastructure in minutes | [Github link](https://github.com/devxp-ca/devxp) |
-| **SheTrains** | Cusi, Tristan; Lyne, Shaun; Chiang, Gordon; Newcombe, Dave; Van Brummelen, Matthew | _to be added_ | _private repository, request group members access_ |
+| **SheTrains** | Cusi, Tristan; Lyne, Shaun; Chiang, Gordon; Newcombe, Dave; Van Brummelen, Matthew | Learn. Predict. Achieve. | _private repository, request group members access_ |
 | **Slacker** _(previously SlackLine)_ | Kosman, Sam; Micetich, Brendan; Bonnici, Karl; Borinaga, Dianna; Huang, Yiming | Connecting slackliners one line at a time| [Github link](https://github.com/CSC485A-Slacker/slacker) |
 | **staSHARE** | Luong, Nam; Nguyen, Huy; Donaldson, Isaac; Felea-Motet, Mark; Smith, Kersten | Stash it, Share, it, Search it. | [Github link](https://github.com/duchuy1999/csc485a-project) |
 <br>
