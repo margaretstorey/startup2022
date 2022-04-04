@@ -1,23 +1,17 @@
-(This is being updated with more details, stay tuned!))
-
 # Final Submission
 
-Note that the final submission is not done in a face-to-face presentation but rather by deploying your final application and posting all supplemental material to the Web.
+By the due date (15/04/2022 23:59), please have ready: 
 
-By the due date (15/04/2022 23:59) you should send us an email ([startup.programming@gmail.com](mailto:startup.programming@gmail.com)) that includes a:
-
-- link to download the final application installation file or to the web app page (if creating a new account is required, please provide us with a testing account credentials)
-- link for all the source code involved in your final project (client, server, other)
-- link to the final project documentation (description of main use cases, architectural overview, main APIs/features, installation and usage instructions, the user study, and any other relevant information). An example for the documentation can be seen [here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjbG91ZHdlYjEwYXxneDo2Y2Q3MmZjNzk1ODdmNzA2).
-- link to a video demonstrating the application (try to show all the various features of your application and explain them in the video).
-- A personal reflection (written by each team member) on your contribution to the project, what you did, what you **learned** and the **challenges** you faced. Please email these personal reflections to us rather than post on GitHub.  
+- In your GitHub readme, post a link to a 5 minute **video** demonstrating the application (try to show all the main features of your application and explain them in the video using your scenarios and personas).   
+- In your GitHub readme, please make sure you have updated the link to your deployed **final application** (if creating a new account is required, please provide us with a testing account credentials). Pay special attention to usability issues, look & feel, and simplicity.
+- For your GitHub repository,make sure that all your **supplemental material** posted in your GitHub repository are in order and complete:
+   - all **source code** is up to date 
+   - **documentation** (product page, Wiki, project documentation, description of main use cases/personas/scenarios, architectural overview, main APIs/features, installation and usage instructions, the user study and user feedback, and any other relevant information).
+-  a **reflection by each member** (at most one page) of how you on contributed to the project, what tasks you did, what you **learned** and the **challenges** you faced. Please submit these to us via Brightspace individually. 
 
 After that date, the course staff will examine your projects, test them and evaluate them, without you being present, so it is very important that everything would be self explained.
 
-Make sure to fix issues that we gave you feedback on during the last milestone, and in case you need further clarifications, please write us an email ([startup.programming@gmail.com](mailto:startup.programming@gmail.com)).
-Make sure that your GitHub repository is clear and informative. Make sure your application runs correctly on the target platforms (Firefox and Chrome/Chromium **or** Android **or** iOS).
-
-Give special attention to usability issues, look & feel, and simplicity.
+Make sure to fix issues that we gave you feedback on during the last milestone, and in case you need further clarifications, message us on Slack. 
 
 **Important note:** Full grading for the Final Submission (30 points) will be determined by the following criteria:
 
@@ -29,3 +23,4 @@ Give special attention to usability issues, look & feel, and simplicity.
 6. Documentation (is it useful for users/developers) 
 
 Good luck,  
+Peggy and Alessandra
