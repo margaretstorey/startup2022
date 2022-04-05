@@ -1,7 +1,5 @@
 # Final Submission
 
-(instructions in progress...)
-
 By the due date (15/04/2022 23:59), please have ready: 
 
 - In your GitHub readme, post a link to a 5 minute **video** demonstrating the application.
