@@ -31,7 +31,7 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 | 10 | 18 Mar, 2022 | 2:00-2:40 :speaker: Intellectual Property, Aislinn Sirk (UVic) <br> 2:40-2:50 :coffee: Break <br> 2:50-4:00 :speaker: *Tales from a Technical CEO*, Rob Bennett (ViaTec) <br> 4:00-4:10 :coffee: Break <br> 4:10-4:50 :speaker: Data Privacy, Sean Falconer, (Skyflow) <br> |
 | 11 | 25 Mar, 2022 | :busts_in_silhouette: No Course Meeting in lieu of Group Work + Extra Office Hours |
 | 12 | 1 Apr, 2022 | :triangular_flag_on_post: [Milestone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA <br> 2:00-2:05 Welcoming and Presentations setup <br> 2:05-2:30 :busts_in_silhouette: staShare presentation and Q&A / Mentors' Feedback <br> 2:30-2:55 :busts_in_silhouette: Slacker presentation and Q&A / Mentors' Feedback <br> 2:55-3:20 :busts_in_silhouette: SheTrains presentation and Q&A / Mentors' Feedback <br> 3:20-3:35 :coffee: Break <br> 3:35-4:00 :busts_in_silhouette: DevXP presentation and Q&A / Mentors' Feedback <br> 4:00-4:25 :busts_in_silhouette: Tandem presentation and Q&A / Mentors' Feedback <br> 4:25-4:50 :busts_in_silhouette: Decidr presentation and Q&A / Mentors' Feedback <br> 4:50-5:30 :tada: Celebration of projects accomplishments _(for students, mentors, and invited guests)_ |
-| | 15 Apr, 2022 | :checkered_flag:[Final submission](/final%20submission.md) *(submission by email)* <br> :busts_in_silhouette: No Course Meeting 
+| | 15 Apr, 2022 | :checkered_flag: [Final submission](/final%20submission.md) *(submission by GitHub and Brightspace)* <br> :busts_in_silhouette: No Course Meeting 
 
 ---
 
@@ -70,7 +70,7 @@ After that we will meet at [ECS](https://www.uvic.ca/search/maps-buildings/build
 | Project Name | Team Members | Tagline | Project Link |
 | ------------ | -------------- | -------------- | -------------- |
 | **Decidr** | Carlson, Davis; Zlonicky, Joe | Because democracy is hard | [Github link](https://github.com/JoeZlonicky/decidr) |
-| **Tandm** _(previously Carpooling)_ | Dunn, Marcus; Hollier, Cobey; Hill, Samantha; Johnson, Douglas; Park, Jae | Carpooling made easy. Carpooling made social. | [Github link](https://github.com/CobeyH/SENG-480A) |
+| **Tandem** _(previously Carpooling)_ | Dunn, Marcus; Hollier, Cobey; Hill, Samantha; Johnson, Douglas; Park, Jae | Carpooling made easy. Carpooling made social. | [Github link](https://github.com/CobeyH/SENG-480A) |
 | **DevXP** _(previously DevEx)_ | Enns, Keanu; Korsch, Sabrina; Petrone, Chris; Robinson, Derek; Wilkes, Brennan | Empowering developers to create enterprise-quality cloud infrastructure in minutes | [Github link](https://github.com/devxp-ca/devxp) |
 | **SheTrains** | Cusi, Tristan; Lyne, Shaun; Chiang, Gordon; Newcombe, Dave; Van Brummelen, Matthew | Learn. Predict. Achieve. | _private repository, request group members access_ |
 | **Slacker** _(previously SlackLine)_ | Kosman, Sam; Micetich, Brendan; Bonnici, Karl; Borinaga, Dianna; Huang, Yiming | Connecting slackliners one line at a time| [Github link](https://github.com/CSC485A-Slacker/slacker) |
